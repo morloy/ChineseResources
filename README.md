@@ -47,5 +47,7 @@ The format is
 ```
 
 There are two lists:
-[classifiers.txt](dist/classifiers.txt?raw=true)
-[classifiersAll.txt](dist/classifiersAll.txt?raw=true) (includes entries with 个)
+* [classifiers.txt](dist/classifiers.txt?raw=true)
+* [classifiersAll.txt](dist/classifiersAll.txt?raw=true) (includes entries with 个)
+
+The third columns is the Pinyin reading of the classifier and the last columns gives a short definition.
