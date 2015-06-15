@@ -2,7 +2,7 @@
 
 An easy to  read list of decompositions of Chinese characters.
 
-[characterDecompositions.txt](distcharacterDecompositions.txt?raw=true)
+[characterDecompositions.txt](dist/characterDecompositions.txt?raw=true)
 
 
 Character decompositions are built from:
