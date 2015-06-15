@@ -41,13 +41,12 @@ All input files for generating this list are included in the repository.
 A list of "default" classifiers for each noun that requires one.
 The goal is to treat each classifier like an article, very common in European languages, and associate each noun with a classifier.
 
-The format is
+An example entry is
 ```
 裤子	条	tiáo	clause, condition; string, stripe
 ```
+The third columns is the Pinyin reading of the classifier and the last columns gives a short definition.
 
 There are two lists:
 * [classifiers.txt](dist/classifiers.txt?raw=true)
 * [classifiersAll.txt](dist/classifiersAll.txt?raw=true) (includes entries with 个)
-
-The third columns is the Pinyin reading of the classifier and the last columns gives a short definition.
