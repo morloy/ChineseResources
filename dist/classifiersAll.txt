@@ -1,1816 +1,1816 @@
-丈夫	个	gè	numerary adjunct, piece; single
-三明治	个	gè	numerary adjunct, piece; single
-上午	个	gè	numerary adjunct, piece; single
-上级	个	gè	numerary adjunct, piece; single
-上衣	件	jiàn	numerary adjunct for article; matter
-下午	个	gè	numerary adjunct, piece; single
-下巴	个	gè	numerary adjunct, piece; single
-不幸	个	gè	numerary adjunct, piece; single
-世界	个	gè	numerary adjunct, piece; single
-世纪	个	gè	numerary adjunct, piece; single
-中午	个	gè	numerary adjunct, piece; single
-中学	个	gè	numerary adjunct, piece; single
-中山服	件	jiàn	numerary adjunct for article; matter
-中厅	间	jiān	midpoint, space; place, locality
-中心	个	gè	numerary adjunct, piece; single
+丈夫	个	gè	classifier for people or objects in general
+三明治	个	gè	classifier for people or objects in general
+上午	个	gè	classifier for people or objects in general
+上级	个	gè	classifier for people or objects in general
+上衣	件	jiàn	classifier for events, things, clothes etc
+下午	个	gè	classifier for people or objects in general
+下巴	个	gè	classifier for people or objects in general
+不幸	个	gè	classifier for people or objects in general
+世界	个	gè	classifier for people or objects in general
+世纪	个	gè	classifier for people or objects in general
+中午	个	gè	classifier for people or objects in general
+中学	个	gè	classifier for people or objects in general
+中山服	件	jiàn	classifier for events, things, clothes etc
+中厅	间	jiān	classifier for rooms
+中心	个	gè	classifier for people or objects in general
 中药	服	fù	clothes; wear, dress
-中餐	份	fèn	portion, part; duty
-主人	个	gè	numerary adjunct, piece; single
-主任	个	gè	numerary adjunct, piece; single
-主席	个	gè	numerary adjunct, piece; single
-主席台	个	gè	numerary adjunct, piece; single
-主张	个	gè	numerary adjunct, piece; single
-主意	个	gè	numerary adjunct, piece; single
-乒乓球	个	gè	numerary adjunct, piece; single
-干冰	块	kuài	piece, lump; dollar
-干笑	声	shēng	sound, voice, noise; tone; music
-事	件	jiàn	numerary adjunct for article; matter
-事件	个	gè	numerary adjunct, piece; single
-事儿	件	jiàn	numerary adjunct for article; matter
-事实	个	gè	numerary adjunct, piece; single
-事情	件	jiàn	numerary adjunct for article; matter
-事故	桩	zhuāng	stake, post; affair, matter
-事业	个	gè	numerary adjunct, piece; single
-事物	个	gè	numerary adjunct, piece; single
-二胡	把	bǎ	hold, take; guard; regard as
-井	口	kǒu	mouth; open end; entrance, gate
-交易	笔	bǐ	writing brush; write; stroke
-享受	种	zhǒng	seed; race, breed; to plant
-京剧	场	chǎng	open space, field, market
-京戏	出	chū	go out, send out; stand; produce
-人	个	gè	numerary adjunct, piece; single
-人命	条	tiáo	clause, condition; string, stripe
-人员	个	gè	numerary adjunct, piece; single
+中餐	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+主人	个	gè	classifier for people or objects in general
+主任	个	gè	classifier for people or objects in general
+主席	个	gè	classifier for people or objects in general
+主席台	个	gè	classifier for people or objects in general
+主张	个	gè	classifier for people or objects in general
+主意	个	gè	classifier for people or objects in general
+乒乓球	个	gè	classifier for people or objects in general
+干冰	块	kuài	classifier for pieces of cloth, cake, soap etc
+干笑	声	shēng	classifier for sounds
+事	件	jiàn	classifier for events, things, clothes etc
+事件	个	gè	classifier for people or objects in general
+事儿	件	jiàn	classifier for events, things, clothes etc
+事实	个	gè	classifier for people or objects in general
+事情	件	jiàn	classifier for events, things, clothes etc
+事故	桩	zhuāng	classifier for items
+事业	个	gè	classifier for people or objects in general
+事物	个	gè	classifier for people or objects in general
+二胡	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+井	口	kǒu	classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls
+交易	笔	bǐ	classifier for sums of money, deals
+享受	种	zhǒng	classifier for types, kinds, sorts
+京剧	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+京戏	出	chū	classifier for dramas, plays, operas etc
+人	个	gè	classifier for people or objects in general
+人命	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+人员	个	gè	classifier for people or objects in general
 人家	户	hù	door; family
-人民	个	gè	numerary adjunct, piece; single
-人物	个	gè	numerary adjunct, piece; single
-代表	位	wèi	throne; position, post; rank, status; seat
-代表团	个	gè	numerary adjunct, piece; single
-任务	项	xiàng	neck, nape of neck; sum; funds
-任命	纸	zhǐ	paper
-企图	种	zhǒng	seed; race, breed; to plant
-企业	家	jiā	house, home, residence; family
-伯母	个	gè	numerary adjunct, piece; single
-伯父	个	gè	numerary adjunct, piece; single
-估计	个	gè	numerary adjunct, piece; single
-位置	个	gè	numerary adjunct, piece; single
-住宅楼	幢	zhuàng	carriage curtain; sun screen
-住所	处	chù	place, locale; department
-佛像	尊	zūn	respect, revere, venerate; honor
-作品	部	bù	part, division, section
-作家	个	gè	numerary adjunct, piece; single
-作文	篇	piān	chapter, section, essay, article
-作业	个	gè	numerary adjunct, piece; single
-作用	个	gè	numerary adjunct, piece; single
-作者	个	gè	numerary adjunct, piece; single
-例子	个	gè	numerary adjunct, piece; single
-便条	张	zhāng	stretch, extend, expand; sheet
-便签	张	zhāng	stretch, extend, expand; sheet
-保证	个	gè	numerary adjunct, piece; single
-保护	种	zhǒng	seed; race, breed; to plant
-保护区	个	gè	numerary adjunct, piece; single
-保险	份	fèn	portion, part; duty
-信	封	fēng	letter, envelope; feudal
-信封	个	gè	numerary adjunct, piece; single
-信心	个	gè	numerary adjunct, piece; single
-信用证券	张	zhāng	stretch, extend, expand; sheet
-信箱	个	gè	numerary adjunct, piece; single
-俱乐部	个	gè	numerary adjunct, piece; single
-候选人	名	míng	name, rank, title, position
-假条	张	zhāng	stretch, extend, expand; sheet
-偏题	道	dào	path, road, street; method, way
-做法	个	gè	numerary adjunct, piece; single
-伞	把	bǎ	hold, take; guard; regard as
-传统	个	gè	numerary adjunct, piece; single
-传记	篇	piān	chapter, section, essay, article
-债	笔	bǐ	writing brush; write; stroke
-伤疤	道	dào	path, road, street; method, way
-价值	个	gè	numerary adjunct, piece; single
-价格	个	gè	numerary adjunct, piece; single
-仪器	台	tái	platform; unit; term of address
-优点	个	gè	numerary adjunct, piece; single
-储藏室	间	jiān	midpoint, space; place, locality
-兄弟	个	gè	numerary adjunct, piece; single
-先生	位	wèi	throne; position, post; rank, status; seat
-光	道	dào	path, road, street; method, way
-光盘	片	piàn	slice, splinter, strip; rad. 91
-光碟	片	piàn	slice, splinter, strip; rad. 91
-光线	条	tiáo	clause, condition; string, stripe
-儿童	个	gè	numerary adjunct, piece; single
-兔子	只	zhī	only, just, simply
-内容	个	gè	numerary adjunct, piece; single
-内衣	件	jiàn	numerary adjunct for article; matter
-全会	届	jiè	numerary adjunct for time, term
-公交车	辆	liàng	numerary adjunct for vehicles
-公仆	个	gè	numerary adjunct, piece; single
-公共汽车	辆	liàng	numerary adjunct for vehicles
-公司	家	jiā	house, home, residence; family
-公园	个	gè	numerary adjunct, piece; single
-公堂	家	jiā	house, home, residence; family
-公寓	套	tào	case, cover, wrapper, envelope
-公寓楼	座	zuò	seat; stand, base
-公用电话	部	bù	part, division, section
-公路	条	tiáo	clause, condition; string, stripe
-兵	个	gè	numerary adjunct, piece; single
-冠军	个	gè	numerary adjunct, piece; single
-冬天	个	gè	numerary adjunct, piece; single
-冰	块	kuài	piece, lump; dollar
-冰山	座	zuò	seat; stand, base
-冰棍	根	gēn	root, base(d on); foundation
-冰棒	根	gēn	root, base(d on); foundation
-冰箱	台	tái	platform; unit; term of address
-冰雹	场	cháng	open space, field, market
-出口	个	gè	numerary adjunct, piece; single
-出生证	张	zhāng	stretch, extend, expand; sheet
-出生证明	张	zhāng	stretch, extend, expand; sheet
-出生证明书	张	zhāng	stretch, extend, expand; sheet
-出租汽车	辆	liàng	numerary adjunct for vehicles
-刀	把	bǎ	hold, take; guard; regard as
-刀叉	副	fù	assist; supplement; assistant
-刀子	把	bǎ	hold, take; guard; regard as
-分析	个	gè	numerary adjunct, piece; single
-分机	台	tái	platform; unit; term of address
-判断	个	gè	numerary adjunct, piece; single
-别墅	幢	zhuàng	carriage curtain; sun screen
-别针	枚	méi	stalk of shrub, trunk of tree
-利息	笔	bǐ	writing brush; write; stroke
-利益	个	gè	numerary adjunct, piece; single
-制度	个	gè	numerary adjunct, piece; single
-制服	套	tào	case, cover, wrapper, envelope
-刷子	把	bǎ	hold, take; guard; regard as
-剪	把	bǎ	hold, take; guard; regard as
-剪刀	把	bǎ	hold, take; guard; regard as
-剪子	把	bǎ	hold, take; guard; regard as
-副食	种	zhǒng	seed; race, breed; to plant
-创作	个	gè	numerary adjunct, piece; single
-剧场	个	gè	numerary adjunct, piece; single
-剧院	家	jiā	house, home, residence; family
-剑	口	kǒu	mouth; open end; entrance, gate
-力气	把	bǎ	hold, take; guard; regard as
-功课	门	mén	gate, door, entrance, opening
-劲	把	bǎ	hold, take; guard; regard as
-动作	个	gè	numerary adjunct, piece; single
-动作片	部	bù	part, division, section
-动员	次	cì	order, sequence; next
-动物	只	zhī	only, just, simply
-动物园	个	gè	numerary adjunct, piece; single
-胜利	个	gè	numerary adjunct, piece; single
-劳动	次	cì	order, sequence; next
-劝告	席	xí	seat; mat; take seat; banquet
-勺	把	bǎ	hold, take; guard; regard as
-勺子	把	bǎ	hold, take; guard; regard as
-包	个	gè	numerary adjunct, piece; single
-包子	个	gè	numerary adjunct, piece; single
-包裹	个	gè	numerary adjunct, piece; single
-区	个	gè	numerary adjunct, piece; single
-区别	个	gè	numerary adjunct, piece; single
-午饭	份	fèn	portion, part; duty
-午餐	份	fèn	portion, part; duty
-半天	个	gè	numerary adjunct, piece; single
-协会	个	gè	numerary adjunct, piece; single
-协议	项	xiàng	neck, nape of neck; sum; funds
-卡	张	zhāng	stretch, extend, expand; sheet
-卡车	辆	liàng	numerary adjunct for vehicles
-印度人	个	gè	numerary adjunct, piece; single
-印章	方	fāng	a square, rectangle; a region; local
-危害	个	gè	numerary adjunct, piece; single
-危机	个	gè	numerary adjunct, piece; single
-卷尺	把	bǎ	hold, take; guard; regard as
-卷心菜	棵	kē	numerary adjunct for trees
-原则	个	gè	numerary adjunct, piece; single
-原因	个	gè	numerary adjunct, piece; single
-原料	个	gè	numerary adjunct, piece; single
-参赛者	名	míng	name, rank, title, position
-叉子	把	bǎ	hold, take; guard; regard as
-叉车	台	tái	platform; unit; term of address
-反应	个	gè	numerary adjunct, piece; single
-反间计	条	tiáo	clause, condition; string, stripe
-叔叔	个	gè	numerary adjunct, piece; single
-口号	个	gè	numerary adjunct, piece; single
-口袋	个	gè	numerary adjunct, piece; single
-口语	门	mén	gate, door, entrance, opening
-古砚	台	tái	platform; unit; term of address
-古迹	个	gè	numerary adjunct, piece; single
-句子	个	gè	numerary adjunct, piece; single
-可能	个	gè	numerary adjunct, piece; single
-司机	个	gè	numerary adjunct, piece; single
-合作	个	gè	numerary adjunct, piece; single
-合同	个	gè	numerary adjunct, piece; single
-吉他	把	bǎ	hold, take; guard; regard as
-同事	个	gè	numerary adjunct, piece; single
-同学	位	wèi	throne; position, post; rank, status; seat
-同屋	个	gè	numerary adjunct, piece; single
-同志	个	gè	numerary adjunct, piece; single
-名册	本	běn	root, origin, source; basis
-名胜	处	chù	place, locale; department
-名字	个	gè	numerary adjunct, piece; single
-吵架	顿	dùn	pause, stop; bow, kowtow; arrange
-吸引	个	gè	numerary adjunct, piece; single
-吸管	支	zhī	disperse, pay; support; branch
-周折	番	fān	to take turns; a turn, a time; to repeat
-命令	道	dào	path, road, street; method, way
-命运	个	gè	numerary adjunct, piece; single
-和棋	盘	pán	tray, plate, dish; examine
-咖啡	杯	bēi	cup, glass
-咖啡屋	家	jiā	house, home, residence; family
-咖啡馆	家	jiā	house, home, residence; family
-咳嗽	阵	zhèn	column, row or file of troops
-品种	个	gè	numerary adjunct, piece; single
-哥哥	个	gè	numerary adjunct, piece; single
-哲学	个	gè	numerary adjunct, piece; single
-唐人街	条	tiáo	clause, condition; string, stripe
-售货员	个	gè	numerary adjunct, piece; single
-唱片	张	zhāng	stretch, extend, expand; sheet
-商品	个	gè	numerary adjunct, piece; single
-商场	家	jiā	house, home, residence; family
-商店	家	jiā	house, home, residence; family
-问卷	份	fèn	portion, part; duty
-问题	个	gè	numerary adjunct, piece; single
-啤酒	杯	bēi	cup, glass
-喜剧	部	bù	part, division, section
-喜报	张	zhāng	stretch, extend, expand; sheet
-单	个	gè	numerary adjunct, piece; single
-单人床	张	zhāng	stretch, extend, expand; sheet
-单位	个	gè	numerary adjunct, piece; single
-单打	场	chǎng	open space, field, market
-单词	个	gè	numerary adjunct, piece; single
-嗓子	把	bǎ	hold, take; guard; regard as
-尝试	次	cì	order, sequence; next
-嘴	张	zhāng	stretch, extend, expand; sheet
-嘴唇	片	piàn	slice, splinter, strip; rad. 91
-嘴巴	张	zhāng	stretch, extend, expand; sheet
-嘴巴	个	gè	numerary adjunct, piece; single
-器	台	tái	platform; unit; term of address
-回信	封	fēng	letter, envelope; feudal
-回忆	个	gè	numerary adjunct, piece; single
-回答	个	gè	numerary adjunct, piece; single
-因素	个	gè	numerary adjunct, piece; single
-圈	个	gè	numerary adjunct, piece; single
-国	个	gè	numerary adjunct, piece; single
-国家	个	gè	numerary adjunct, piece; single
-国旗	面	miàn	face; surface; plane; side, dimension
-国王	个	gè	numerary adjunct, piece; single
-国际象棋	副	fù	assist; supplement; assistant
-围巾	条	tiáo	clause, condition; string, stripe
-围墙	道	dào	path, road, street; method, way
-圆珠笔	支	zhī	disperse, pay; support; branch
-图	张	zhāng	stretch, extend, expand; sheet
-图书	本	běn	root, origin, source; basis
-图书馆	家	jiā	house, home, residence; family
-图片	张	zhāng	stretch, extend, expand; sheet
-图章	方	fāng	a square, rectangle; a region; local
-图集	本	běn	root, origin, source; basis
-团体	个	gè	numerary adjunct, piece; single
-土地	片	piàn	slice, splinter, strip; rad. 91
-土豆	个	gè	numerary adjunct, piece; single
-土豆	颗	kē	grain, kernel
-地	片	piàn	slice, splinter, strip; rad. 91
-地位	个	gè	numerary adjunct, piece; single
-地区	个	gè	numerary adjunct, piece; single
-地图	张	zhāng	stretch, extend, expand; sheet
-地址	个	gè	numerary adjunct, piece; single
-地契	张	zhāng	stretch, extend, expand; sheet
-地带	个	gè	numerary adjunct, piece; single
-地方	处	chù	place, locale; department
-地球	个	gè	numerary adjunct, piece; single
-地雷	颗	kē	grain, kernel
-地点	个	gè	numerary adjunct, piece; single
-坐垫	块	kuài	piece, lump; dollar
-坡	个	gè	numerary adjunct, piece; single
-坯料	块	kuài	piece, lump; dollar
-城	座	zuò	seat; stand, base
-城市	座	zuò	seat; stand, base
-基础	个	gè	numerary adjunct, piece; single
-堂	间	jiān	midpoint, space; place, locality
-堡寨	座	zuò	seat; stand, base
-报	份	fèn	portion, part; duty
-报名表	张	zhāng	stretch, extend, expand; sheet
-报告	篇	piān	chapter, section, essay, article
-报社	家	jiā	house, home, residence; family
-报纸	份	fèn	portion, part; duty
-报道	篇	piān	chapter, section, essay, article
-塑料	种	zhǒng	seed; race, breed; to plant
-塔	座	zuò	seat; stand, base
-墨	块	kuài	piece, lump; dollar
-墨水	瓶	píng	jug, pitcher, vase, jar, bottle
-墨镜	只	zhī	only, just, simply
-墩布	把	bǎ	hold, take; guard; regard as
-坟	座	zuò	seat; stand, base
-壁灯	盏	zhǎn	small cup or container
-坏处	个	gè	numerary adjunct, piece; single
-坝	条	tiáo	clause, condition; string, stripe
-士兵	个	gè	numerary adjunct, piece; single
-夏天	个	gè	numerary adjunct, piece; single
-外交	个	gè	numerary adjunct, piece; single
-外国	个	gè	numerary adjunct, piece; single
-外套	件	jiàn	numerary adjunct for article; matter
-外语	门	mén	gate, door, entrance, opening
-夜晚	个	gè	numerary adjunct, piece; single
-梦	场	cháng	open space, field, market
-大事	件	jiàn	numerary adjunct for article; matter
-大使	名	míng	name, rank, title, position
-大使馆	座	zuò	seat; stand, base
-大学	所	suǒ	place, location; numerary adjunct
-大厦	座	zuò	seat; stand, base
-大提琴	把	bǎ	hold, take; guard; regard as
-大会	个	gè	numerary adjunct, piece; single
-大梁	根	gēn	root, base(d on); foundation
-大楼	幢	zhuàng	carriage curtain; sun screen
-大氅	件	jiàn	numerary adjunct for article; matter
-大火	场	cháng	open space, field, market
-大白菜	棵	kē	numerary adjunct for trees
-大炮	门	mén	gate, door, entrance, opening
-大街	条	tiáo	clause, condition; string, stripe
-大衣	件	jiàn	numerary adjunct for article; matter
-大象	只	zhī	only, just, simply
-大路	条	tiáo	clause, condition; string, stripe
-大陆	个	gè	numerary adjunct, piece; single
-大雁	只	zhī	only, just, simply
-大雨	场	cháng	open space, field, market
-大风	场	cháng	open space, field, market
-太太	个	gè	numerary adjunct, piece; single
-太阳	个	gè	numerary adjunct, piece; single
-夫人	位	wèi	throne; position, post; rank, status; seat
-夫妇	对	duì	correct, right; facing, opposed
-失败	次	cì	order, sequence; next
-夹袄	件	jiàn	numerary adjunct for article; matter
-奥斯卡	届	jiè	numerary adjunct for time, term
-奥斯卡金像奖	届	jiè	numerary adjunct for time, term
-女士	个	gè	numerary adjunct, piece; single
-女郎	个	gè	numerary adjunct, piece; single
-奶奶	位	wèi	throne; position, post; rank, status; seat
-奶酪	块	kuài	piece, lump; dollar
-好事者	个	gè	numerary adjunct, piece; single
-好友	个	gè	numerary adjunct, piece; single
-好汉	条	tiáo	clause, condition; string, stripe
-好处	个	gè	numerary adjunct, piece; single
-妹妹	个	gè	numerary adjunct, piece; single
-妻子	个	gè	numerary adjunct, piece; single
-姐姐	个	gè	numerary adjunct, piece; single
-姑姑	个	gè	numerary adjunct, piece; single
-姑娘	个	gè	numerary adjunct, piece; single
-姓	个	gè	numerary adjunct, piece; single
-姓名	个	gè	numerary adjunct, piece; single
-委员	个	gè	numerary adjunct, piece; single
-婚事	门	mén	gate, door, entrance, opening
-婚姻	次	cì	order, sequence; next
-婚礼	场	chǎng	open space, field, market
-婚纱	身	shēn	body; trunk, hull; rad. no. 158
-妈妈	个	gè	numerary adjunct, piece; single
-嫁资	份	fèn	portion, part; duty
-嫂子	个	gè	numerary adjunct, piece; single
-婴儿	个	gè	numerary adjunct, piece; single
-子弹	粒	lì	grain; small particle
-孔	个	gè	numerary adjunct, piece; single
-字	个	gè	numerary adjunct, piece; single
-字典	本	běn	root, origin, source; basis
-字母	个	gè	numerary adjunct, piece; single
-季节	个	gè	numerary adjunct, piece; single
-学问	个	gè	numerary adjunct, piece; single
-学期	个	gè	numerary adjunct, piece; single
-学校	所	suǒ	place, location; numerary adjunct
-学术	个	gè	numerary adjunct, piece; single
-学费	个	gè	numerary adjunct, piece; single
-学院	所	suǒ	place, location; numerary adjunct
-安全帽	只	zhī	only, just, simply
-安慰	个	gè	numerary adjunct, piece; single
-安眠药	粒	lì	grain; small particle
-官	个	gè	numerary adjunct, piece; single
-官司	场	cháng	open space, field, market
-客人	位	wèi	throne; position, post; rank, status; seat
-客厅	间	jiān	midpoint, space; place, locality
-宣传	个	gè	numerary adjunct, piece; single
-宫女	个	gè	numerary adjunct, piece; single
-宫殿	座	zuò	seat; stand, base
-害处	个	gè	numerary adjunct, piece; single
-宴会	席	xí	seat; mat; take seat; banquet
-家	个	gè	numerary adjunct, piece; single
-家具	件	jiàn	numerary adjunct for article; matter
+人民	个	gè	classifier for people or objects in general
+人物	个	gè	classifier for people or objects in general
+代表	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+代表团	个	gè	classifier for people or objects in general
+任务	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+任命	纸	zhǐ	classifier for documents, letter etc
+企图	种	zhǒng	classifier for types, kinds, sorts
+企业	家	jiā	classifier for families or businesses
+伯母	个	gè	classifier for people or objects in general
+伯父	个	gè	classifier for people or objects in general
+估计	个	gè	classifier for people or objects in general
+位置	个	gè	classifier for people or objects in general
+住宅楼	幢	zhuàng	classifier for buildings
+住所	处	chù	classifier for locations or items of damage: spot, point
+佛像	尊	zūn	classifier for cannons and statues
+作品	部	bù	classifier for works of literature, films, machines etc
+作家	个	gè	classifier for people or objects in general
+作文	篇	piān	classifier for written items: chapter, article
+作业	个	gè	classifier for people or objects in general
+作用	个	gè	classifier for people or objects in general
+作者	个	gè	classifier for people or objects in general
+例子	个	gè	classifier for people or objects in general
+便条	张	zhāng	classifier for flat objects, sheet; classifier for votes
+便签	张	zhāng	classifier for flat objects, sheet; classifier for votes
+保证	个	gè	classifier for people or objects in general
+保护	种	zhǒng	classifier for types, kinds, sorts
+保护区	个	gè	classifier for people or objects in general
+保险	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+信	封	fēng	classifier for sealed objects, esp. letters
+信封	个	gè	classifier for people or objects in general
+信心	个	gè	classifier for people or objects in general
+信用证券	张	zhāng	classifier for flat objects, sheet; classifier for votes
+信箱	个	gè	classifier for people or objects in general
+俱乐部	个	gè	classifier for people or objects in general
+候选人	名	míng	classifier for people
+假条	张	zhāng	classifier for flat objects, sheet; classifier for votes
+偏题	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+做法	个	gè	classifier for people or objects in general
+伞	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+传统	个	gè	classifier for people or objects in general
+传记	篇	piān	classifier for written items: chapter, article
+债	笔	bǐ	classifier for sums of money, deals
+伤疤	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+价值	个	gè	classifier for people or objects in general
+价格	个	gè	classifier for people or objects in general
+仪器	台	tái	classifier for vehicles or machines
+优点	个	gè	classifier for people or objects in general
+储藏室	间	jiān	classifier for rooms
+兄弟	个	gè	classifier for people or objects in general
+先生	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+光	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+光盘	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+光碟	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+光线	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+儿童	个	gè	classifier for people or objects in general
+兔子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+内容	个	gè	classifier for people or objects in general
+内衣	件	jiàn	classifier for events, things, clothes etc
+全会	届	jiè	classifier for events, meetings, elections, sporting fixtures, years (of graduation)
+公交车	辆	liàng	classifier for vehicles
+公仆	个	gè	classifier for people or objects in general
+公共汽车	辆	liàng	classifier for vehicles
+公司	家	jiā	classifier for families or businesses
+公园	个	gè	classifier for people or objects in general
+公堂	家	jiā	classifier for families or businesses
+公寓	套	tào	classifier for sets, collections
+公寓楼	座	zuò	classifier for buildings, mountains and similar immovable objects
+公用电话	部	bù	classifier for works of literature, films, machines etc
+公路	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+兵	个	gè	classifier for people or objects in general
+冠军	个	gè	classifier for people or objects in general
+冬天	个	gè	classifier for people or objects in general
+冰	块	kuài	classifier for pieces of cloth, cake, soap etc
+冰山	座	zuò	classifier for buildings, mountains and similar immovable objects
+冰棍	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+冰棒	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+冰箱	台	tái	classifier for vehicles or machines
+冰雹	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+出口	个	gè	classifier for people or objects in general
+出生证	张	zhāng	classifier for flat objects, sheet; classifier for votes
+出生证明	张	zhāng	classifier for flat objects, sheet; classifier for votes
+出生证明书	张	zhāng	classifier for flat objects, sheet; classifier for votes
+出租汽车	辆	liàng	classifier for vehicles
+刀	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+刀叉	副	fù	classifier for pairs, sets of things & facial expressions
+刀子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+分析	个	gè	classifier for people or objects in general
+分机	台	tái	classifier for vehicles or machines
+判断	个	gè	classifier for people or objects in general
+别墅	幢	zhuàng	classifier for buildings
+别针	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+利息	笔	bǐ	classifier for sums of money, deals
+利益	个	gè	classifier for people or objects in general
+制度	个	gè	classifier for people or objects in general
+制服	套	tào	classifier for sets, collections
+刷子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+剪	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+剪刀	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+剪子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+副食	种	zhǒng	classifier for types, kinds, sorts
+创作	个	gè	classifier for people or objects in general
+剧场	个	gè	classifier for people or objects in general
+剧院	家	jiā	classifier for families or businesses
+剑	口	kǒu	classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls
+力气	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+功课	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+劲	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+动作	个	gè	classifier for people or objects in general
+动作片	部	bù	classifier for works of literature, films, machines etc
+动员	次	cì	classifier for enumerated events: time
+动物	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+动物园	个	gè	classifier for people or objects in general
+胜利	个	gè	classifier for people or objects in general
+劳动	次	cì	classifier for enumerated events: time
+劝告	席	xí	classifier for banquets, conversations etc
+勺	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+勺子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+包	个	gè	classifier for people or objects in general
+包子	个	gè	classifier for people or objects in general
+包裹	个	gè	classifier for people or objects in general
+区	个	gè	classifier for people or objects in general
+区别	个	gè	classifier for people or objects in general
+午饭	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+午餐	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+半天	个	gè	classifier for people or objects in general
+协会	个	gè	classifier for people or objects in general
+协议	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+卡	张	zhāng	classifier for flat objects, sheet; classifier for votes
+卡车	辆	liàng	classifier for vehicles
+印度人	个	gè	classifier for people or objects in general
+印章	方	fāng	classifier for square things
+危害	个	gè	classifier for people or objects in general
+危机	个	gè	classifier for people or objects in general
+卷尺	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+卷心菜	棵	kē	classifier for trees, cabbages, plants etc
+原则	个	gè	classifier for people or objects in general
+原因	个	gè	classifier for people or objects in general
+原料	个	gè	classifier for people or objects in general
+参赛者	名	míng	classifier for people
+叉子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+叉车	台	tái	classifier for vehicles or machines
+反应	个	gè	classifier for people or objects in general
+反间计	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+叔叔	个	gè	classifier for people or objects in general
+口号	个	gè	classifier for people or objects in general
+口袋	个	gè	classifier for people or objects in general
+口语	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+古砚	台	tái	classifier for vehicles or machines
+古迹	个	gè	classifier for people or objects in general
+句子	个	gè	classifier for people or objects in general
+可能	个	gè	classifier for people or objects in general
+司机	个	gè	classifier for people or objects in general
+合作	个	gè	classifier for people or objects in general
+合同	个	gè	classifier for people or objects in general
+吉他	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+同事	个	gè	classifier for people or objects in general
+同学	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+同屋	个	gè	classifier for people or objects in general
+同志	个	gè	classifier for people or objects in general
+名册	本	běn	classifier for books, periodicals, files etc
+名胜	处	chù	classifier for locations or items of damage: spot, point
+名字	个	gè	classifier for people or objects in general
+吵架	顿	dùn	classifier for meals, beatings, scoldings etc: time, bout, spell, meal
+吸引	个	gè	classifier for people or objects in general
+吸管	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+周折	番	fān	classifier for occurrences (of an action or deed)
+命令	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+命运	个	gè	classifier for people or objects in general
+和棋	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+咖啡	杯	bēi	classifier for certain containers of liquids: glass, cup; classifier for certain containers of liquids: glass, cup
+咖啡屋	家	jiā	classifier for families or businesses
+咖啡馆	家	jiā	classifier for families or businesses
+咳嗽	阵	zhèn	classifier for events or states of short duration
+品种	个	gè	classifier for people or objects in general
+哥哥	个	gè	classifier for people or objects in general
+哲学	个	gè	classifier for people or objects in general
+唐人街	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+售货员	个	gè	classifier for people or objects in general
+唱片	张	zhāng	classifier for flat objects, sheet; classifier for votes
+商品	个	gè	classifier for people or objects in general
+商场	家	jiā	classifier for families or businesses
+商店	家	jiā	classifier for families or businesses
+问卷	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+问题	个	gè	classifier for people or objects in general
+啤酒	杯	bēi	classifier for certain containers of liquids: glass, cup; classifier for certain containers of liquids: glass, cup
+喜剧	部	bù	classifier for works of literature, films, machines etc
+喜报	张	zhāng	classifier for flat objects, sheet; classifier for votes
+单	个	gè	classifier for people or objects in general
+单人床	张	zhāng	classifier for flat objects, sheet; classifier for votes
+单位	个	gè	classifier for people or objects in general
+单打	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+单词	个	gè	classifier for people or objects in general
+嗓子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+尝试	次	cì	classifier for enumerated events: time
+嘴	张	zhāng	classifier for flat objects, sheet; classifier for votes
+嘴唇	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+嘴巴	张	zhāng	classifier for flat objects, sheet; classifier for votes
+嘴巴	个	gè	classifier for people or objects in general
+器	台	tái	classifier for vehicles or machines
+回信	封	fēng	classifier for sealed objects, esp. letters
+回忆	个	gè	classifier for people or objects in general
+回答	个	gè	classifier for people or objects in general
+因素	个	gè	classifier for people or objects in general
+圈	个	gè	classifier for people or objects in general
+国	个	gè	classifier for people or objects in general
+国家	个	gè	classifier for people or objects in general
+国旗	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+国王	个	gè	classifier for people or objects in general
+国际象棋	副	fù	classifier for pairs, sets of things & facial expressions
+围巾	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+围墙	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+圆珠笔	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+图	张	zhāng	classifier for flat objects, sheet; classifier for votes
+图书	本	běn	classifier for books, periodicals, files etc
+图书馆	家	jiā	classifier for families or businesses
+图片	张	zhāng	classifier for flat objects, sheet; classifier for votes
+图章	方	fāng	classifier for square things
+图集	本	běn	classifier for books, periodicals, files etc
+团体	个	gè	classifier for people or objects in general
+土地	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+土豆	个	gè	classifier for people or objects in general
+土豆	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+地	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+地位	个	gè	classifier for people or objects in general
+地区	个	gè	classifier for people or objects in general
+地图	张	zhāng	classifier for flat objects, sheet; classifier for votes
+地址	个	gè	classifier for people or objects in general
+地契	张	zhāng	classifier for flat objects, sheet; classifier for votes
+地带	个	gè	classifier for people or objects in general
+地方	处	chù	classifier for locations or items of damage: spot, point
+地球	个	gè	classifier for people or objects in general
+地雷	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+地点	个	gè	classifier for people or objects in general
+坐垫	块	kuài	classifier for pieces of cloth, cake, soap etc
+坡	个	gè	classifier for people or objects in general
+坯料	块	kuài	classifier for pieces of cloth, cake, soap etc
+城	座	zuò	classifier for buildings, mountains and similar immovable objects
+城市	座	zuò	classifier for buildings, mountains and similar immovable objects
+基础	个	gè	classifier for people or objects in general
+堂	间	jiān	classifier for rooms
+堡寨	座	zuò	classifier for buildings, mountains and similar immovable objects
+报	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+报名表	张	zhāng	classifier for flat objects, sheet; classifier for votes
+报告	篇	piān	classifier for written items: chapter, article
+报社	家	jiā	classifier for families or businesses
+报纸	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+报道	篇	piān	classifier for written items: chapter, article
+塑料	种	zhǒng	classifier for types, kinds, sorts
+塔	座	zuò	classifier for buildings, mountains and similar immovable objects
+墨	块	kuài	classifier for pieces of cloth, cake, soap etc
+墨水	瓶	píng	classifier for wine and liquids
+墨镜	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+墩布	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+坟	座	zuò	classifier for buildings, mountains and similar immovable objects
+壁灯	盏	zhǎn	classifier for lamps
+坏处	个	gè	classifier for people or objects in general
+坝	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+士兵	个	gè	classifier for people or objects in general
+夏天	个	gè	classifier for people or objects in general
+外交	个	gè	classifier for people or objects in general
+外国	个	gè	classifier for people or objects in general
+外套	件	jiàn	classifier for events, things, clothes etc
+外语	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+夜晚	个	gè	classifier for people or objects in general
+梦	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+大事	件	jiàn	classifier for events, things, clothes etc
+大使	名	míng	classifier for people
+大使馆	座	zuò	classifier for buildings, mountains and similar immovable objects
+大学	所	suǒ	classifier for houses, small buildings, institutions etc
+大厦	座	zuò	classifier for buildings, mountains and similar immovable objects
+大提琴	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+大会	个	gè	classifier for people or objects in general
+大梁	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+大楼	幢	zhuàng	classifier for buildings
+大氅	件	jiàn	classifier for events, things, clothes etc
+大火	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+大白菜	棵	kē	classifier for trees, cabbages, plants etc
+大炮	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+大街	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+大衣	件	jiàn	classifier for events, things, clothes etc
+大象	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+大路	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+大陆	个	gè	classifier for people or objects in general
+大雁	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+大雨	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+大风	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+太太	个	gè	classifier for people or objects in general
+太阳	个	gè	classifier for people or objects in general
+夫人	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+夫妇	对	duì	classifier: couple
+失败	次	cì	classifier for enumerated events: time
+夹袄	件	jiàn	classifier for events, things, clothes etc
+奥斯卡	届	jiè	classifier for events, meetings, elections, sporting fixtures, years (of graduation)
+奥斯卡金像奖	届	jiè	classifier for events, meetings, elections, sporting fixtures, years (of graduation)
+女士	个	gè	classifier for people or objects in general
+女郎	个	gè	classifier for people or objects in general
+奶奶	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+奶酪	块	kuài	classifier for pieces of cloth, cake, soap etc
+好事者	个	gè	classifier for people or objects in general
+好友	个	gè	classifier for people or objects in general
+好汉	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+好处	个	gè	classifier for people or objects in general
+妹妹	个	gè	classifier for people or objects in general
+妻子	个	gè	classifier for people or objects in general
+姐姐	个	gè	classifier for people or objects in general
+姑姑	个	gè	classifier for people or objects in general
+姑娘	个	gè	classifier for people or objects in general
+姓	个	gè	classifier for people or objects in general
+姓名	个	gè	classifier for people or objects in general
+委员	个	gè	classifier for people or objects in general
+婚事	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+婚姻	次	cì	classifier for enumerated events: time
+婚礼	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+婚纱	身	shēn	classifier for sets of clothes: suit, twinset
+妈妈	个	gè	classifier for people or objects in general
+嫁资	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+嫂子	个	gè	classifier for people or objects in general
+婴儿	个	gè	classifier for people or objects in general
+子弹	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+孔	个	gè	classifier for people or objects in general
+字	个	gè	classifier for people or objects in general
+字典	本	běn	classifier for books, periodicals, files etc
+字母	个	gè	classifier for people or objects in general
+季节	个	gè	classifier for people or objects in general
+学问	个	gè	classifier for people or objects in general
+学期	个	gè	classifier for people or objects in general
+学校	所	suǒ	classifier for houses, small buildings, institutions etc
+学术	个	gè	classifier for people or objects in general
+学费	个	gè	classifier for people or objects in general
+学院	所	suǒ	classifier for houses, small buildings, institutions etc
+安全帽	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+安慰	个	gè	classifier for people or objects in general
+安眠药	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+官	个	gè	classifier for people or objects in general
+官司	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+客人	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+客厅	间	jiān	classifier for rooms
+宣传	个	gè	classifier for people or objects in general
+宫女	个	gè	classifier for people or objects in general
+宫殿	座	zuò	classifier for buildings, mountains and similar immovable objects
+害处	个	gè	classifier for people or objects in general
+宴会	席	xí	classifier for banquets, conversations etc
+家	个	gè	classifier for people or objects in general
+家具	件	jiàn	classifier for events, things, clothes etc
 家庭	户	hù	door; family
-家乡	个	gè	numerary adjunct, piece; single
-宿舍	间	jiān	midpoint, space; place, locality
-宿舍楼	幢	zhuàng	carriage curtain; sun screen
-寒潮	股	gǔ	thighs, haunches, rump; share
-寓言	则	zé	rule, law, regulation; grades
-寝室	间	jiān	midpoint, space; place, locality
-实验	个	gè	numerary adjunct, piece; single
-实验室	间	jiān	midpoint, space; place, locality
-宝剑	把	bǎ	hold, take; guard; regard as
-宝物	件	jiàn	numerary adjunct for article; matter
-宝石	枚	méi	stalk of shrub, trunk of tree
-寺院	座	zuò	seat; stand, base
-封锁线	道	dào	path, road, street; method, way
-将来	个	gè	numerary adjunct, piece; single
-专家	个	gè	numerary adjunct, piece; single
-专业	门	mén	gate, door, entrance, opening
-专线	条	tiáo	clause, condition; string, stripe
-对比	个	gè	numerary adjunct, piece; single
-对联	副	fù	assist; supplement; assistant
-对话	个	gè	numerary adjunct, piece; single
-对象	个	gè	numerary adjunct, piece; single
-导弹	枚	méi	stalk of shrub, trunk of tree
-小事	点	diǎn	dot, speck, spot; point, degree
-小人书	本	běn	root, origin, source; basis
-小伙	个	gè	numerary adjunct, piece; single
-小伙子	个	gè	numerary adjunct, piece; single
-小册子	本	běn	root, origin, source; basis
-小刀	把	bǎ	hold, take; guard; regard as
-小吃	家	jiā	house, home, residence; family
-小吃店	家	jiā	house, home, residence; family
-小姐	个	gè	numerary adjunct, piece; single
-小孩	个	gè	numerary adjunct, piece; single
-小学	个	gè	numerary adjunct, piece; single
-小学生	个	gè	numerary adjunct, piece; single
-小时	个	gè	numerary adjunct, piece; single
-小朋友	个	gè	numerary adjunct, piece; single
-小树	棵	kē	numerary adjunct for trees
-小白菜	棵	kē	numerary adjunct for trees
-小笔电	台	tái	platform; unit; term of address
-小葱	把	bǎ	hold, take; guard; regard as
-小说	本	běn	root, origin, source; basis
-小麦	粒	lì	grain; small particle
-尺	支	zhī	disperse, pay; support; branch
-尺子	把	bǎ	hold, take; guard; regard as
-尿	泡	pāo	bubbles, suds; blister; soak
-局长	位	wèi	throne; position, post; rank, status; seat
-屋	间	jiān	midpoint, space; place, locality
-屋子	间	jiān	midpoint, space; place, locality
-屋顶	个	gè	numerary adjunct, piece; single
-尸体	具	jù	tool, implement; draw up, write
-展览	个	gè	numerary adjunct, piece; single
-展览会	个	gè	numerary adjunct, piece; single
-山	座	zuò	seat; stand, base
-山区	个	gè	numerary adjunct, piece; single
-山脉	条	tiáo	clause, condition; string, stripe
-岸	个	gè	numerary adjunct, piece; single
-岛	个	gè	numerary adjunct, piece; single
-工人	个	gè	numerary adjunct, piece; single
-工作	个	gè	numerary adjunct, piece; single
-工厂	家	jiā	house, home, residence; family
-工会	个	gè	numerary adjunct, piece; single
-工业学校	个	gè	numerary adjunct, piece; single
-工程	个	gè	numerary adjunct, piece; single
-工程师	个	gè	numerary adjunct, piece; single
-工艺品	个	gè	numerary adjunct, piece; single
-工资	个	gè	numerary adjunct, piece; single
-巧克力	块	kuài	piece, lump; dollar
-巨款	笔	bǐ	writing brush; write; stroke
-巨流	股	gǔ	thighs, haunches, rump; share
-差事	件	jiàn	numerary adjunct for article; matter
-差使	件	jiàn	numerary adjunct for article; matter
-市	个	gè	numerary adjunct, piece; single
+家乡	个	gè	classifier for people or objects in general
+宿舍	间	jiān	classifier for rooms
+宿舍楼	幢	zhuàng	classifier for buildings
+寒潮	股	gǔ	classifier for smells, electric currents, spirals etc
+寓言	则	zé	classifier for written items (such as an official statement)
+寝室	间	jiān	classifier for rooms
+实验	个	gè	classifier for people or objects in general
+实验室	间	jiān	classifier for rooms
+宝剑	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+宝物	件	jiàn	classifier for events, things, clothes etc
+宝石	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+寺院	座	zuò	classifier for buildings, mountains and similar immovable objects
+封锁线	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+将来	个	gè	classifier for people or objects in general
+专家	个	gè	classifier for people or objects in general
+专业	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+专线	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+对比	个	gè	classifier for people or objects in general
+对联	副	fù	classifier for pairs, sets of things & facial expressions
+对话	个	gè	classifier for people or objects in general
+对象	个	gè	classifier for people or objects in general
+导弹	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+小事	点	diǎn	classifier for items
+小人书	本	běn	classifier for books, periodicals, files etc
+小伙	个	gè	classifier for people or objects in general
+小伙子	个	gè	classifier for people or objects in general
+小册子	本	běn	classifier for books, periodicals, files etc
+小刀	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+小吃	家	jiā	classifier for families or businesses
+小吃店	家	jiā	classifier for families or businesses
+小姐	个	gè	classifier for people or objects in general
+小孩	个	gè	classifier for people or objects in general
+小学	个	gè	classifier for people or objects in general
+小学生	个	gè	classifier for people or objects in general
+小时	个	gè	classifier for people or objects in general
+小朋友	个	gè	classifier for people or objects in general
+小树	棵	kē	classifier for trees, cabbages, plants etc
+小白菜	棵	kē	classifier for trees, cabbages, plants etc
+小笔电	台	tái	classifier for vehicles or machines
+小葱	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+小说	本	běn	classifier for books, periodicals, files etc
+小麦	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+尺	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+尺子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+尿	泡	pāo	classifier for urine or feces
+局长	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+屋	间	jiān	classifier for rooms
+屋子	间	jiān	classifier for rooms
+屋顶	个	gè	classifier for people or objects in general
+尸体	具	jù	classifier for devices, coffins, dead bodies
+展览	个	gè	classifier for people or objects in general
+展览会	个	gè	classifier for people or objects in general
+山	座	zuò	classifier for buildings, mountains and similar immovable objects
+山区	个	gè	classifier for people or objects in general
+山脉	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+岸	个	gè	classifier for people or objects in general
+岛	个	gè	classifier for people or objects in general
+工人	个	gè	classifier for people or objects in general
+工作	个	gè	classifier for people or objects in general
+工厂	家	jiā	classifier for families or businesses
+工会	个	gè	classifier for people or objects in general
+工业学校	个	gè	classifier for people or objects in general
+工程	个	gè	classifier for people or objects in general
+工程师	个	gè	classifier for people or objects in general
+工艺品	个	gè	classifier for people or objects in general
+工资	个	gè	classifier for people or objects in general
+巧克力	块	kuài	classifier for pieces of cloth, cake, soap etc
+巨款	笔	bǐ	classifier for sums of money, deals
+巨流	股	gǔ	classifier for smells, electric currents, spirals etc
+差事	件	jiàn	classifier for events, things, clothes etc
+差使	件	jiàn	classifier for events, things, clothes etc
+市	个	gè	classifier for people or objects in general
 布鞋	双	shuāng	set of two, pair, couple; both
-希望	个	gè	numerary adjunct, piece; single
-师傅	个	gè	numerary adjunct, piece; single
-帐子	顶	dǐng	top, summit, peak; to carry on the head
-帐篷	顶	dǐng	top, summit, peak; to carry on the head
-带	条	tiáo	clause, condition; string, stripe
-常识	门	mén	gate, door, entrance, opening
-帽子	顶	dǐng	top, summit, peak; to carry on the head
-平原	个	gè	numerary adjunct, piece; single
-平板电脑	台	tái	platform; unit; term of address
-年	个	gè	numerary adjunct, piece; single
-年代	个	gè	numerary adjunct, piece; single
-年纪	把	bǎ	hold, take; guard; regard as
-年级	个	gè	numerary adjunct, piece; single
-年龄	把	bǎ	hold, take; guard; regard as
-床	张	zhāng	stretch, extend, expand; sheet
-床单	条	tiáo	clause, condition; string, stripe
-床垫	张	zhāng	stretch, extend, expand; sheet
-店	家	jiā	house, home, residence; family
-座	个	gè	numerary adjunct, piece; single
-座位	个	gè	numerary adjunct, piece; single
-座谈	次	cì	order, sequence; next
-厕所	间	jiān	midpoint, space; place, locality
-厨房	间	jiān	midpoint, space; place, locality
-庙	座	zuò	seat; stand, base
-厂房	座	zuò	seat; stand, base
-广告	项	xiàng	neck, nape of neck; sum; funds
-广告衫	件	jiàn	numerary adjunct for article; matter
-广播	个	gè	numerary adjunct, piece; single
-广播电台	个	gè	numerary adjunct, piece; single
-建筑	个	gè	numerary adjunct, piece; single
-建议	个	gè	numerary adjunct, piece; single
-弓	张	zhāng	stretch, extend, expand; sheet
-引擎	台	tái	platform; unit; term of address
-弟弟	个	gè	numerary adjunct, piece; single
-弦	根	gēn	root, base(d on); foundation
-强度	个	gè	numerary adjunct, piece; single
-强盗	个	gè	numerary adjunct, piece; single
-弹子	粒	lì	grain; small particle
-弹拨乐器	件	jiàn	numerary adjunct for article; matter
-弯	道	dào	path, road, street; method, way
-形势	个	gè	numerary adjunct, piece; single
-形式	个	gè	numerary adjunct, piece; single
-形状	个	gè	numerary adjunct, piece; single
-形象	个	gè	numerary adjunct, piece; single
-彩带	条	tiáo	clause, condition; string, stripe
-彩色	种	zhǒng	seed; race, breed; to plant
-彩虹	道	dào	path, road, street; method, way
-彩云	朵	duǒ	cluster of flowers; earlobe
-影子	个	gè	numerary adjunct, piece; single
-影片	部	bù	part, division, section
-影碟	片	piàn	slice, splinter, strip; rad. 91
-影迷	个	gè	numerary adjunct, piece; single
-影集	本	běn	root, origin, source; basis
-影响	股	gǔ	thighs, haunches, rump; share
-复习	次	cì	order, sequence; next
-微波炉	台	tái	platform; unit; term of address
-微笑	个	gè	numerary adjunct, piece; single
-德性	副	fù	assist; supplement; assistant
-心	颗	kē	grain, kernel
-心事	宗	zōng	lineage, ancestry; ancestor, clan
-心得	项	xiàng	neck, nape of neck; sum; funds
-心情	个	gè	numerary adjunct, piece; single
-心脏	颗	kē	grain, kernel
-志愿兵	名	míng	name, rank, title, position
-快嘴	张	zhāng	stretch, extend, expand; sheet
-念珠	串	chuàn	string; relatives; conspire
-思想	个	gè	numerary adjunct, piece; single
-性	个	gè	numerary adjunct, piece; single
-性格	个	gè	numerary adjunct, piece; single
-性质	个	gè	numerary adjunct, piece; single
-恐怖片	部	bù	part, division, section
-恐龙	头	tóu	head; top; chief, first; boss
-悲剧	出	chū	go out, send out; stand; produce
-情形	个	gè	numerary adjunct, piece; single
-情景	个	gè	numerary adjunct, piece; single
-情况	个	gè	numerary adjunct, piece; single
-情绪	种	zhǒng	seed; race, breed; to plant
-想法	个	gè	numerary adjunct, piece; single
-想象	个	gè	numerary adjunct, piece; single
-意外	个	gè	numerary adjunct, piece; single
-意志	个	gè	numerary adjunct, piece; single
-意思	个	gè	numerary adjunct, piece; single
-意义	个	gè	numerary adjunct, piece; single
-意见	点	diǎn	dot, speck, spot; point, degree
-爱人	个	gè	numerary adjunct, piece; single
-爱好	个	gè	numerary adjunct, piece; single
-爱心	片	piàn	slice, splinter, strip; rad. 91
-爱情	个	gè	numerary adjunct, piece; single
-感冒	场	cháng	open space, field, market
-感情	个	gè	numerary adjunct, piece; single
-感想	通	tòng	pass through, common, communicate
-感觉	个	gè	numerary adjunct, piece; single
-态度	个	gè	numerary adjunct, piece; single
-惨案	起	qǐ	rise, stand up; go up; begin
-宪法	部	bù	part, division, section
-应聘者	位	wèi	throne; position, post; rank, status; seat
-恋爱	个	gè	numerary adjunct, piece; single
-成分	个	gè	numerary adjunct, piece; single
-成功	次	cì	order, sequence; next
-成就	个	gè	numerary adjunct, piece; single
-成果	个	gè	numerary adjunct, piece; single
-成绩	项	xiàng	neck, nape of neck; sum; funds
-成语	条	tiáo	clause, condition; string, stripe
-战场	个	gè	numerary adjunct, piece; single
-战士	个	gè	numerary adjunct, piece; single
-战争	场	cháng	open space, field, market
-战斗	场	cháng	open space, field, market
-戏	出	chū	go out, send out; stand; produce
-户头	个	gè	numerary adjunct, piece; single
-房	间	jiān	midpoint, space; place, locality
-房契	张	zhāng	stretch, extend, expand; sheet
-房子	栋	dòng	main beams supporting house
-房屋	所	suǒ	place, location; numerary adjunct
-房间	间	jiān	midpoint, space; place, locality
-所	个	gè	numerary adjunct, piece; single
-扁担	根	gēn	root, base(d on); foundation
-扇子	把	bǎ	hold, take; guard; regard as
+希望	个	gè	classifier for people or objects in general
+师傅	个	gè	classifier for people or objects in general
+帐子	顶	dǐng	classifier for headwear, hats, veils etc
+帐篷	顶	dǐng	classifier for headwear, hats, veils etc
+带	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+常识	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+帽子	顶	dǐng	classifier for headwear, hats, veils etc
+平原	个	gè	classifier for people or objects in general
+平板电脑	台	tái	classifier for vehicles or machines
+年	个	gè	classifier for people or objects in general
+年代	个	gè	classifier for people or objects in general
+年纪	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+年级	个	gè	classifier for people or objects in general
+年龄	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+床	张	zhāng	classifier for flat objects, sheet; classifier for votes
+床单	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+床垫	张	zhāng	classifier for flat objects, sheet; classifier for votes
+店	家	jiā	classifier for families or businesses
+座	个	gè	classifier for people or objects in general
+座位	个	gè	classifier for people or objects in general
+座谈	次	cì	classifier for enumerated events: time
+厕所	间	jiān	classifier for rooms
+厨房	间	jiān	classifier for rooms
+庙	座	zuò	classifier for buildings, mountains and similar immovable objects
+厂房	座	zuò	classifier for buildings, mountains and similar immovable objects
+广告	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+广告衫	件	jiàn	classifier for events, things, clothes etc
+广播	个	gè	classifier for people or objects in general
+广播电台	个	gè	classifier for people or objects in general
+建筑	个	gè	classifier for people or objects in general
+建议	个	gè	classifier for people or objects in general
+弓	张	zhāng	classifier for flat objects, sheet; classifier for votes
+引擎	台	tái	classifier for vehicles or machines
+弟弟	个	gè	classifier for people or objects in general
+弦	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+强度	个	gè	classifier for people or objects in general
+强盗	个	gè	classifier for people or objects in general
+弹子	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+弹拨乐器	件	jiàn	classifier for events, things, clothes etc
+弯	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+形势	个	gè	classifier for people or objects in general
+形式	个	gè	classifier for people or objects in general
+形状	个	gè	classifier for people or objects in general
+形象	个	gè	classifier for people or objects in general
+彩带	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+彩色	种	zhǒng	classifier for types, kinds, sorts
+彩虹	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+彩云	朵	duǒ	classifier for flowers, clouds etc
+影子	个	gè	classifier for people or objects in general
+影片	部	bù	classifier for works of literature, films, machines etc
+影碟	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+影迷	个	gè	classifier for people or objects in general
+影集	本	běn	classifier for books, periodicals, files etc
+影响	股	gǔ	classifier for smells, electric currents, spirals etc
+复习	次	cì	classifier for enumerated events: time
+微波炉	台	tái	classifier for vehicles or machines
+微笑	个	gè	classifier for people or objects in general
+德性	副	fù	classifier for pairs, sets of things & facial expressions
+心	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+心事	宗	zōng	classifier for batches, items, cases (medical or legal), reservoirs
+心得	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+心情	个	gè	classifier for people or objects in general
+心脏	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+志愿兵	名	míng	classifier for people
+快嘴	张	zhāng	classifier for flat objects, sheet; classifier for votes
+念珠	串	chuàn	classifier for rows or strings
+思想	个	gè	classifier for people or objects in general
+性	个	gè	classifier for people or objects in general
+性格	个	gè	classifier for people or objects in general
+性质	个	gè	classifier for people or objects in general
+恐怖片	部	bù	classifier for works of literature, films, machines etc
+恐龙	头	tóu	classifier for pigs or livestock
+悲剧	出	chū	classifier for dramas, plays, operas etc
+情形	个	gè	classifier for people or objects in general
+情景	个	gè	classifier for people or objects in general
+情况	个	gè	classifier for people or objects in general
+情绪	种	zhǒng	classifier for types, kinds, sorts
+想法	个	gè	classifier for people or objects in general
+想象	个	gè	classifier for people or objects in general
+意外	个	gè	classifier for people or objects in general
+意志	个	gè	classifier for people or objects in general
+意思	个	gè	classifier for people or objects in general
+意义	个	gè	classifier for people or objects in general
+意见	点	diǎn	classifier for items
+爱人	个	gè	classifier for people or objects in general
+爱好	个	gè	classifier for people or objects in general
+爱心	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+爱情	个	gè	classifier for people or objects in general
+感冒	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+感情	个	gè	classifier for people or objects in general
+感想	通	tòng	classifier for letters, telegrams, phone calls etc; classifier for an activity, taken in its entirety (tirade of abuse, stint of music playing, bout of drinking etc)
+感觉	个	gè	classifier for people or objects in general
+态度	个	gè	classifier for people or objects in general
+惨案	起	qǐ	classifier for occurrences or unpredictable events: case, instance; classifier for groups: batch, group
+宪法	部	bù	classifier for works of literature, films, machines etc
+应聘者	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+恋爱	个	gè	classifier for people or objects in general
+成分	个	gè	classifier for people or objects in general
+成功	次	cì	classifier for enumerated events: time
+成就	个	gè	classifier for people or objects in general
+成果	个	gè	classifier for people or objects in general
+成绩	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+成语	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+战场	个	gè	classifier for people or objects in general
+战士	个	gè	classifier for people or objects in general
+战争	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+战斗	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+戏	出	chū	classifier for dramas, plays, operas etc
+户头	个	gè	classifier for people or objects in general
+房	间	jiān	classifier for rooms
+房契	张	zhāng	classifier for flat objects, sheet; classifier for votes
+房子	栋	dòng	classifier for houses or buildings
+房屋	所	suǒ	classifier for houses, small buildings, institutions etc
+房间	间	jiān	classifier for rooms
+所	个	gè	classifier for people or objects in general
+扁担	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+扇子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
 手	双	shuāng	set of two, pair, couple; both
 手套	双	shuāng	set of two, pair, couple; both
-手帕	方	fāng	a square, rectangle; a region; local
-手指	个	gè	numerary adjunct, piece; single
-手杖	把	bǎ	hold, take; guard; regard as
-手枪	把	bǎ	hold, take; guard; regard as
-手机	部	bù	part, division, section
-手段	个	gè	numerary adjunct, piece; single
-手绢	张	zhāng	stretch, extend, expand; sheet
-手续	道	dào	path, road, street; method, way
-手术	个	gè	numerary adjunct, piece; single
-手表	块	kuài	piece, lump; dollar
-手链	条	tiáo	clause, condition; string, stripe
-才华	份	fèn	portion, part; duty
-打架	场	cháng	open space, field, market
-打算	个	gè	numerary adjunct, piece; single
-扳子	把	bǎ	hold, take; guard; regard as
-批判	个	gè	numerary adjunct, piece; single
-批评	个	gè	numerary adjunct, piece; single
-技术	门	mén	gate, door, entrance, opening
-技术员	个	gè	numerary adjunct, piece; single
-抽痛	阵	zhèn	column, row or file of troops
-抽象	种	zhǒng	seed; race, breed; to plant
-拍卖会	场	chǎng	open space, field, market
-拖拉机	台	tái	platform; unit; term of address
+手帕	方	fāng	classifier for square things
+手指	个	gè	classifier for people or objects in general
+手杖	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+手枪	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+手机	部	bù	classifier for works of literature, films, machines etc
+手段	个	gè	classifier for people or objects in general
+手绢	张	zhāng	classifier for flat objects, sheet; classifier for votes
+手续	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+手术	个	gè	classifier for people or objects in general
+手表	块	kuài	classifier for pieces of cloth, cake, soap etc
+手链	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+才华	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+打架	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+打算	个	gè	classifier for people or objects in general
+扳子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+批判	个	gè	classifier for people or objects in general
+批评	个	gè	classifier for people or objects in general
+技术	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+技术员	个	gè	classifier for people or objects in general
+抽痛	阵	zhèn	classifier for events or states of short duration
+抽象	种	zhǒng	classifier for types, kinds, sorts
+拍卖会	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+拖拉机	台	tái	classifier for vehicles or machines
 拖鞋	双	shuāng	set of two, pair, couple; both
-招待会	个	gè	numerary adjunct, piece; single
-拳头	个	gè	numerary adjunct, piece; single
-指导	个	gè	numerary adjunct, piece; single
-指挥	个	gè	numerary adjunct, piece; single
-指示	个	gè	numerary adjunct, piece; single
-指头	个	gè	numerary adjunct, piece; single
-按键	个	gè	numerary adjunct, piece; single
-捶子	把	bǎ	hold, take; guard; regard as
-掌声	阵	zhèn	column, row or file of troops
-排球	个	gè	numerary adjunct, piece; single
-接力赛	场	chǎng	open space, field, market
-推动	个	gè	numerary adjunct, piece; single
-掩护	面	miàn	face; surface; plane; side, dimension
-措施	个	gè	numerary adjunct, piece; single
-提琴	把	bǎ	hold, take; guard; regard as
-损失	个	gè	numerary adjunct, piece; single
-搞笑片	部	bù	part, division, section
-摩天大厦	座	zuò	seat; stand, base
-摩天大楼	座	zuò	seat; stand, base
-摩天楼	座	zuò	seat; stand, base
-摩托车	辆	liàng	numerary adjunct for vehicles
-掸	把	bǎ	hold, take; guard; regard as
-掸子	把	bǎ	hold, take; guard; regard as
-扑克牌	副	fù	assist; supplement; assistant
-操场	个	gè	numerary adjunct, piece; single
-担子	副	fù	assist; supplement; assistant
-摄像机	部	bù	part, division, section
-支持	个	gè	numerary adjunct, piece; single
-支票	本	běn	root, origin, source; basis
-收入	笔	bǐ	writing brush; write; stroke
-收据	张	zhāng	stretch, extend, expand; sheet
-收音机	台	tái	platform; unit; term of address
-改善	个	gè	numerary adjunct, piece; single
-改正	个	gè	numerary adjunct, piece; single
-改进	个	gè	numerary adjunct, piece; single
-改锥	把	bǎ	hold, take; guard; regard as
-改革	次	cì	order, sequence; next
-政府	个	gè	numerary adjunct, piece; single
-政治家	个	gè	numerary adjunct, piece; single
-政策	个	gè	numerary adjunct, piece; single
-政党	个	gè	numerary adjunct, piece; single
-故事	个	gè	numerary adjunct, piece; single
-故乡	个	gè	numerary adjunct, piece; single
-效果	个	gè	numerary adjunct, piece; single
-救生队	支	zhī	disperse, pay; support; branch
-救护车	辆	liàng	numerary adjunct for vehicles
-教员	个	gè	numerary adjunct, piece; single
-教堂	间	jiān	midpoint, space; place, locality
-教学	门	mén	gate, door, entrance, opening
-教室	间	jiān	midpoint, space; place, locality
-教师	个	gè	numerary adjunct, piece; single
-教授	个	gè	numerary adjunct, piece; single
-教材	本	běn	root, origin, source; basis
-教科书	本	běn	root, origin, source; basis
-教练	个	gè	numerary adjunct, piece; single
-敌人	个	gè	numerary adjunct, piece; single
-敌军	股	gǔ	thighs, haunches, rump; share
-数	个	gè	numerary adjunct, piece; single
-数字	个	gè	numerary adjunct, piece; single
-数量	个	gè	numerary adjunct, piece; single
-文件	份	fèn	portion, part; duty
-文化	个	gè	numerary adjunct, piece; single
-文字	个	gè	numerary adjunct, piece; single
-文学	种	zhǒng	seed; race, breed; to plant
-文学家	个	gè	numerary adjunct, piece; single
-文明	个	gè	numerary adjunct, piece; single
-文物	件	jiàn	numerary adjunct for article; matter
-文章	篇	piān	chapter, section, essay, article
-文艺演出	场	chǎng	open space, field, market
-斑马	匹	pǐ	bolt of cloth; counter for horses
-斧子	把	bǎ	hold, take; guard; regard as
-斧头	柄	bǐng	handle, lever, knob; authority
-新年	个	gè	numerary adjunct, piece; single
-新闻	条	tiáo	clause, condition; string, stripe
-断层	道	dào	path, road, street; method, way
-方向	个	gè	numerary adjunct, piece; single
-方式	个	gè	numerary adjunct, piece; single
-方案	个	gè	numerary adjunct, piece; single
-方法	个	gè	numerary adjunct, piece; single
-方针	个	gè	numerary adjunct, piece; single
-方面	个	gè	numerary adjunct, piece; single
-旄车	辆	liàng	numerary adjunct for vehicles
-旅行	趟	tàng	time, occasion; take journey
-旅馆	家	jiā	house, home, residence; family
-旗	面	miàn	face; surface; plane; side, dimension
-旗子	面	miàn	face; surface; plane; side, dimension
-日圆	个	gè	numerary adjunct, piece; single
-日历	张	zhāng	stretch, extend, expand; sheet
-日期	个	gè	numerary adjunct, piece; single
-日用品	件	jiàn	numerary adjunct for article; matter
-日程	个	gè	numerary adjunct, piece; single
-日记	则	zé	rule, law, regulation; grades
-早上	个	gè	numerary adjunct, piece; single
-早晨	个	gè	numerary adjunct, piece; single
-早饭	份	fèn	portion, part; duty
-早餐	份	fèn	portion, part; duty
-昆虫	只	zhī	only, just, simply
-明月	轮	lún	wheel; revolve, turn; recur
-星座	张	zhāng	stretch, extend, expand; sheet
-星期	个	gè	numerary adjunct, piece; single
-星期天	个	gè	numerary adjunct, piece; single
-星期日	个	gè	numerary adjunct, piece; single
-春天	个	gè	numerary adjunct, piece; single
-时代	个	gè	numerary adjunct, piece; single
-时刻	个	gè	numerary adjunct, piece; single
-时期	个	gè	numerary adjunct, piece; single
-时间	段	duàn	section, piece, division
-晚上	个	gè	numerary adjunct, piece; single
-晚会	个	gè	numerary adjunct, piece; single
-晚饭	份	fèn	portion, part; duty
-晚餐	份	fèn	portion, part; duty
-暑假	个	gè	numerary adjunct, piece; single
-暴雨	场	cháng	open space, field, market
-暴风雪	场	cháng	open space, field, market
-曲	支	zhī	disperse, pay; support; branch
-曲子	支	zhī	disperse, pay; support; branch
-书	本	běn	root, origin, source; basis
-书包	个	gè	numerary adjunct, piece; single
-书店	家	jiā	house, home, residence; family
-书房	间	jiān	midpoint, space; place, locality
-书本	本	běn	root, origin, source; basis
-书架	个	gè	numerary adjunct, piece; single
-书桌	张	zhāng	stretch, extend, expand; sheet
-书目	本	běn	root, origin, source; basis
-书签	张	zhāng	stretch, extend, expand; sheet
-书记	个	gè	numerary adjunct, piece; single
-会	个	gè	numerary adjunct, piece; single
-会场	个	gè	numerary adjunct, piece; single
-会见	次	cì	order, sequence; next
-会话	个	gè	numerary adjunct, piece; single
-会谈	次	cì	order, sequence; next
-会议	场	chǎng	open space, field, market
-月	个	gè	numerary adjunct, piece; single
-朋友	个	gè	numerary adjunct, piece; single
-服务	项	xiàng	neck, nape of neck; sum; funds
-服务员	个	gè	numerary adjunct, piece; single
-服务器	台	tái	platform; unit; term of address
-服装	身	shēn	body; trunk, hull; rad. no. 158
-望远镜	付	fù	give, deliver, pay, hand over; entrust
-期间	个	gè	numerary adjunct, piece; single
-木板	张	zhāng	stretch, extend, expand; sheet
-木片	块	kuài	piece, lump; dollar
-木耳	朵	duǒ	cluster of flowers; earlobe
-木蠹	只	zhī	only, just, simply
-木蠹蛾	只	zhī	only, just, simply
-木头	块	kuài	piece, lump; dollar
-未来	个	gè	numerary adjunct, piece; single
-本子	本	běn	root, origin, source; basis
-本领	项	xiàng	neck, nape of neck; sum; funds
-札记	篇	piān	chapter, section, essay, article
-朱古力	块	kuài	piece, lump; dollar
-杆	条	tiáo	clause, condition; string, stripe
-李子	个	gè	numerary adjunct, piece; single
-材料	个	gè	numerary adjunct, piece; single
-村庄	座	zuò	seat; stand, base
-杯子	个	gè	numerary adjunct, piece; single
-东西	个	gè	numerary adjunct, piece; single
-松	棵	kē	numerary adjunct for trees
-松树	棵	kē	numerary adjunct for trees
-板	块	kuài	piece, lump; dollar
-板凳	张	zhāng	stretch, extend, expand; sheet
-林	片	piàn	slice, splinter, strip; rad. 91
-林阴大道	条	tiáo	clause, condition; string, stripe
-果树	棵	kē	numerary adjunct for trees
-柱	根	gēn	root, base(d on); foundation
-柱子	根	gēn	root, base(d on); foundation
-柳橙汁	瓶	píng	jug, pitcher, vase, jar, bottle
-柿子	个	gè	numerary adjunct, piece; single
-校	所	suǒ	place, location; numerary adjunct
-校长	个	gè	numerary adjunct, piece; single
-核桃	个	gè	numerary adjunct, piece; single
-根	条	tiáo	clause, condition; string, stripe
-根据	个	gè	numerary adjunct, piece; single
-根本	个	gè	numerary adjunct, piece; single
-桃树	株	zhū	numerary adjunct for trees; root
-案件	宗	zōng	lineage, ancestry; ancestor, clan
-案例	个	gè	numerary adjunct, piece; single
-桌子	张	zhāng	stretch, extend, expand; sheet
-桌布	条	tiáo	clause, condition; string, stripe
-桶	个	gè	numerary adjunct, piece; single
-梗	根	gēn	root, base(d on); foundation
-条件	个	gè	numerary adjunct, piece; single
-条款	项	xiàng	neck, nape of neck; sum; funds
-条约	个	gè	numerary adjunct, piece; single
-梨	个	gè	numerary adjunct, piece; single
-梨子	个	gè	numerary adjunct, piece; single
-梳子	把	bǎ	hold, take; guard; regard as
-棉衣	件	jiàn	numerary adjunct for article; matter
-棉被	条	tiáo	clause, condition; string, stripe
-棋	盘	pán	tray, plate, dish; examine
-棋	个	gè	numerary adjunct, piece; single
-棋子	个	gè	numerary adjunct, piece; single
-棒棒糖	根	gēn	root, base(d on); foundation
-棒球	个	gè	numerary adjunct, piece; single
-棒糖	根	gēn	root, base(d on); foundation
-枣树	棵	kē	numerary adjunct for trees
-棚子	间	jiān	midpoint, space; place, locality
-栈单	张	zhāng	stretch, extend, expand; sheet
-栈车	辆	liàng	numerary adjunct for vehicles
-栈阁	条	tiáo	clause, condition; string, stripe
-森林	片	piàn	slice, splinter, strip; rad. 91
-棺材	具	jù	tool, implement; draw up, write
-椅子	把	bǎ	hold, take; guard; regard as
-植物	种	zhǒng	seed; race, breed; to plant
-杨梅	颗	kē	grain, kernel
-业务	项	xiàng	neck, nape of neck; sum; funds
-概念	个	gè	numerary adjunct, piece; single
-概括	个	gè	numerary adjunct, piece; single
-榜样	个	gè	numerary adjunct, piece; single
-构造	个	gè	numerary adjunct, piece; single
-枪	支	zhī	disperse, pay; support; branch
-乐器	件	jiàn	numerary adjunct for article; matter
-乐队	支	zhī	disperse, pay; support; branch
-楼	层	céng	storey, layer, floor, stratum
-楼房	栋	dòng	main beams supporting house
-楼梯	个	gè	numerary adjunct, piece; single
-标杆	根	gēn	root, base(d on); foundation
-标准	个	gè	numerary adjunct, piece; single
-标语	幅	fú	piece, strip, breadth of, hem
-标点	个	gè	numerary adjunct, piece; single
-模样	个	gè	numerary adjunct, piece; single
-树	棵	kē	numerary adjunct for trees
-桥	座	zuò	seat; stand, base
-橘子	个	gè	numerary adjunct, piece; single
-橘子水	瓶	píng	jug, pitcher, vase, jar, bottle
-橘子汁	瓶	píng	jug, pitcher, vase, jar, bottle
-橙汁	瓶	píng	jug, pitcher, vase, jar, bottle
-机	台	tái	platform; unit; term of address
-机器	台	tái	platform; unit; term of address
-机场	家	jiā	house, home, residence; family
-机床	张	zhāng	stretch, extend, expand; sheet
-机会	个	gè	numerary adjunct, piece; single
-机械师	个	gè	numerary adjunct, piece; single
-机构	所	suǒ	place, location; numerary adjunct
-机票	张	zhāng	stretch, extend, expand; sheet
-机关	个	gè	numerary adjunct, piece; single
-橡皮	块	kuài	piece, lump; dollar
-橡皮擦	块	kuài	piece, lump; dollar
-检查	次	cì	order, sequence; next
-款	笔	bǐ	writing brush; write; stroke
-款子	笔	bǐ	writing brush; write; stroke
-款式	种	zhǒng	seed; race, breed; to plant
-款项	宗	zōng	lineage, ancestry; ancestor, clan
-歌	支	zhī	disperse, pay; support; branch
-歌剧	场	chǎng	open space, field, market
-欢腾	片	piàn	slice, splinter, strip; rad. 91
-步枪	把	bǎ	hold, take; guard; regard as
-武器	种	zhǒng	seed; race, breed; to plant
-武术	种	zhǒng	seed; race, breed; to plant
-历史	门	mén	gate, door, entrance, opening
-母亲	个	gè	numerary adjunct, piece; single
-毒打	顿	dùn	pause, stop; bow, kowtow; arrange
-比萨饼	张	zhāng	stretch, extend, expand; sheet
-比赛	场	chǎng	open space, field, market
-毛巾	条	tiáo	clause, condition; string, stripe
-毛病	个	gè	numerary adjunct, piece; single
-毛笔	枝	zhī	branches, limbs; branch off
-毛衣	件	jiàn	numerary adjunct for article; matter
-毛驴	头	tóu	head; top; chief, first; boss
-毯子	条	tiáo	clause, condition; string, stripe
-民族	个	gè	numerary adjunct, piece; single
-民歌	支	zhī	disperse, pay; support; branch
-气候	种	zhǒng	seed; race, breed; to plant
-气温	个	gè	numerary adjunct, piece; single
-气象	个	gè	numerary adjunct, piece; single
-水仙花	棵	kē	numerary adjunct for trees
-水库	座	zuò	seat; stand, base
-水果	个	gè	numerary adjunct, piece; single
-水果刀	把	bǎ	hold, take; guard; regard as
+招待会	个	gè	classifier for people or objects in general
+拳头	个	gè	classifier for people or objects in general
+指导	个	gè	classifier for people or objects in general
+指挥	个	gè	classifier for people or objects in general
+指示	个	gè	classifier for people or objects in general
+指头	个	gè	classifier for people or objects in general
+按键	个	gè	classifier for people or objects in general
+捶子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+掌声	阵	zhèn	classifier for events or states of short duration
+排球	个	gè	classifier for people or objects in general
+接力赛	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+推动	个	gè	classifier for people or objects in general
+掩护	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+措施	个	gè	classifier for people or objects in general
+提琴	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+损失	个	gè	classifier for people or objects in general
+搞笑片	部	bù	classifier for works of literature, films, machines etc
+摩天大厦	座	zuò	classifier for buildings, mountains and similar immovable objects
+摩天大楼	座	zuò	classifier for buildings, mountains and similar immovable objects
+摩天楼	座	zuò	classifier for buildings, mountains and similar immovable objects
+摩托车	辆	liàng	classifier for vehicles
+掸	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+掸子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+扑克牌	副	fù	classifier for pairs, sets of things & facial expressions
+操场	个	gè	classifier for people or objects in general
+担子	副	fù	classifier for pairs, sets of things & facial expressions
+摄像机	部	bù	classifier for works of literature, films, machines etc
+支持	个	gè	classifier for people or objects in general
+支票	本	běn	classifier for books, periodicals, files etc
+收入	笔	bǐ	classifier for sums of money, deals
+收据	张	zhāng	classifier for flat objects, sheet; classifier for votes
+收音机	台	tái	classifier for vehicles or machines
+改善	个	gè	classifier for people or objects in general
+改正	个	gè	classifier for people or objects in general
+改进	个	gè	classifier for people or objects in general
+改锥	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+改革	次	cì	classifier for enumerated events: time
+政府	个	gè	classifier for people or objects in general
+政治家	个	gè	classifier for people or objects in general
+政策	个	gè	classifier for people or objects in general
+政党	个	gè	classifier for people or objects in general
+故事	个	gè	classifier for people or objects in general
+故乡	个	gè	classifier for people or objects in general
+效果	个	gè	classifier for people or objects in general
+救生队	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+救护车	辆	liàng	classifier for vehicles
+教员	个	gè	classifier for people or objects in general
+教堂	间	jiān	classifier for rooms
+教学	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+教室	间	jiān	classifier for rooms
+教师	个	gè	classifier for people or objects in general
+教授	个	gè	classifier for people or objects in general
+教材	本	běn	classifier for books, periodicals, files etc
+教科书	本	běn	classifier for books, periodicals, files etc
+教练	个	gè	classifier for people or objects in general
+敌人	个	gè	classifier for people or objects in general
+敌军	股	gǔ	classifier for smells, electric currents, spirals etc
+数	个	gè	classifier for people or objects in general
+数字	个	gè	classifier for people or objects in general
+数量	个	gè	classifier for people or objects in general
+文件	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+文化	个	gè	classifier for people or objects in general
+文字	个	gè	classifier for people or objects in general
+文学	种	zhǒng	classifier for types, kinds, sorts
+文学家	个	gè	classifier for people or objects in general
+文明	个	gè	classifier for people or objects in general
+文物	件	jiàn	classifier for events, things, clothes etc
+文章	篇	piān	classifier for written items: chapter, article
+文艺演出	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+斑马	匹	pǐ	classifier for horses, mules etc; classifier for cloth: bolt; classifier for cloth: bolt
+斧子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+斧头	柄	bǐng	classifier for knives or blades
+新年	个	gè	classifier for people or objects in general
+新闻	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+断层	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+方向	个	gè	classifier for people or objects in general
+方式	个	gè	classifier for people or objects in general
+方案	个	gè	classifier for people or objects in general
+方法	个	gè	classifier for people or objects in general
+方针	个	gè	classifier for people or objects in general
+方面	个	gè	classifier for people or objects in general
+旄车	辆	liàng	classifier for vehicles
+旅行	趟	tàng	classifier for times, round trips or rows
+旅馆	家	jiā	classifier for families or businesses
+旗	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+旗子	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+日圆	个	gè	classifier for people or objects in general
+日历	张	zhāng	classifier for flat objects, sheet; classifier for votes
+日期	个	gè	classifier for people or objects in general
+日用品	件	jiàn	classifier for events, things, clothes etc
+日程	个	gè	classifier for people or objects in general
+日记	则	zé	classifier for written items (such as an official statement)
+早上	个	gè	classifier for people or objects in general
+早晨	个	gè	classifier for people or objects in general
+早饭	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+早餐	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+昆虫	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+明月	轮	lún	classifier for big round objects: disk, or recurring events: round, turn
+星座	张	zhāng	classifier for flat objects, sheet; classifier for votes
+星期	个	gè	classifier for people or objects in general
+星期天	个	gè	classifier for people or objects in general
+星期日	个	gè	classifier for people or objects in general
+春天	个	gè	classifier for people or objects in general
+时代	个	gè	classifier for people or objects in general
+时刻	个	gè	classifier for people or objects in general
+时期	个	gè	classifier for people or objects in general
+时间	段	duàn	classifier for stories, periods of time, lengths of thread etc
+晚上	个	gè	classifier for people or objects in general
+晚会	个	gè	classifier for people or objects in general
+晚饭	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+晚餐	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+暑假	个	gè	classifier for people or objects in general
+暴雨	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+暴风雪	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+曲	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+曲子	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+书	本	běn	classifier for books, periodicals, files etc
+书包	个	gè	classifier for people or objects in general
+书店	家	jiā	classifier for families or businesses
+书房	间	jiān	classifier for rooms
+书本	本	běn	classifier for books, periodicals, files etc
+书架	个	gè	classifier for people or objects in general
+书桌	张	zhāng	classifier for flat objects, sheet; classifier for votes
+书目	本	běn	classifier for books, periodicals, files etc
+书签	张	zhāng	classifier for flat objects, sheet; classifier for votes
+书记	个	gè	classifier for people or objects in general
+会	个	gè	classifier for people or objects in general
+会场	个	gè	classifier for people or objects in general
+会见	次	cì	classifier for enumerated events: time
+会话	个	gè	classifier for people or objects in general
+会谈	次	cì	classifier for enumerated events: time
+会议	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+月	个	gè	classifier for people or objects in general
+朋友	个	gè	classifier for people or objects in general
+服务	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+服务员	个	gè	classifier for people or objects in general
+服务器	台	tái	classifier for vehicles or machines
+服装	身	shēn	classifier for sets of clothes: suit, twinset
+望远镜	付	fù	classifier for pairs or sets of things
+期间	个	gè	classifier for people or objects in general
+木板	张	zhāng	classifier for flat objects, sheet; classifier for votes
+木片	块	kuài	classifier for pieces of cloth, cake, soap etc
+木耳	朵	duǒ	classifier for flowers, clouds etc
+木蠹	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+木蠹蛾	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+木头	块	kuài	classifier for pieces of cloth, cake, soap etc
+未来	个	gè	classifier for people or objects in general
+本子	本	běn	classifier for books, periodicals, files etc
+本领	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+札记	篇	piān	classifier for written items: chapter, article
+朱古力	块	kuài	classifier for pieces of cloth, cake, soap etc
+杆	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+李子	个	gè	classifier for people or objects in general
+材料	个	gè	classifier for people or objects in general
+村庄	座	zuò	classifier for buildings, mountains and similar immovable objects
+杯子	个	gè	classifier for people or objects in general
+东西	个	gè	classifier for people or objects in general
+松	棵	kē	classifier for trees, cabbages, plants etc
+松树	棵	kē	classifier for trees, cabbages, plants etc
+板	块	kuài	classifier for pieces of cloth, cake, soap etc
+板凳	张	zhāng	classifier for flat objects, sheet; classifier for votes
+林	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+林阴大道	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+果树	棵	kē	classifier for trees, cabbages, plants etc
+柱	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+柱子	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+柳橙汁	瓶	píng	classifier for wine and liquids
+柿子	个	gè	classifier for people or objects in general
+校	所	suǒ	classifier for houses, small buildings, institutions etc
+校长	个	gè	classifier for people or objects in general
+核桃	个	gè	classifier for people or objects in general
+根	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+根据	个	gè	classifier for people or objects in general
+根本	个	gè	classifier for people or objects in general
+桃树	株	zhū	classifier for trees or plants
+案件	宗	zōng	classifier for batches, items, cases (medical or legal), reservoirs
+案例	个	gè	classifier for people or objects in general
+桌子	张	zhāng	classifier for flat objects, sheet; classifier for votes
+桌布	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+桶	个	gè	classifier for people or objects in general
+梗	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+条件	个	gè	classifier for people or objects in general
+条款	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+条约	个	gè	classifier for people or objects in general
+梨	个	gè	classifier for people or objects in general
+梨子	个	gè	classifier for people or objects in general
+梳子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+棉衣	件	jiàn	classifier for events, things, clothes etc
+棉被	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+棋	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+棋	个	gè	classifier for people or objects in general
+棋子	个	gè	classifier for people or objects in general
+棒棒糖	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+棒球	个	gè	classifier for people or objects in general
+棒糖	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+枣树	棵	kē	classifier for trees, cabbages, plants etc
+棚子	间	jiān	classifier for rooms
+栈单	张	zhāng	classifier for flat objects, sheet; classifier for votes
+栈车	辆	liàng	classifier for vehicles
+栈阁	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+森林	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+棺材	具	jù	classifier for devices, coffins, dead bodies
+椅子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+植物	种	zhǒng	classifier for types, kinds, sorts
+杨梅	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+业务	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+概念	个	gè	classifier for people or objects in general
+概括	个	gè	classifier for people or objects in general
+榜样	个	gè	classifier for people or objects in general
+构造	个	gè	classifier for people or objects in general
+枪	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+乐器	件	jiàn	classifier for events, things, clothes etc
+乐队	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+楼	层	céng	classifier for layers
+楼房	栋	dòng	classifier for houses or buildings
+楼梯	个	gè	classifier for people or objects in general
+标杆	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+标准	个	gè	classifier for people or objects in general
+标语	幅	fú	classifier for textiles or pictures
+标点	个	gè	classifier for people or objects in general
+模样	个	gè	classifier for people or objects in general
+树	棵	kē	classifier for trees, cabbages, plants etc
+桥	座	zuò	classifier for buildings, mountains and similar immovable objects
+橘子	个	gè	classifier for people or objects in general
+橘子水	瓶	píng	classifier for wine and liquids
+橘子汁	瓶	píng	classifier for wine and liquids
+橙汁	瓶	píng	classifier for wine and liquids
+机	台	tái	classifier for vehicles or machines
+机器	台	tái	classifier for vehicles or machines
+机场	家	jiā	classifier for families or businesses
+机床	张	zhāng	classifier for flat objects, sheet; classifier for votes
+机会	个	gè	classifier for people or objects in general
+机械师	个	gè	classifier for people or objects in general
+机构	所	suǒ	classifier for houses, small buildings, institutions etc
+机票	张	zhāng	classifier for flat objects, sheet; classifier for votes
+机关	个	gè	classifier for people or objects in general
+橡皮	块	kuài	classifier for pieces of cloth, cake, soap etc
+橡皮擦	块	kuài	classifier for pieces of cloth, cake, soap etc
+检查	次	cì	classifier for enumerated events: time
+款	笔	bǐ	classifier for sums of money, deals
+款子	笔	bǐ	classifier for sums of money, deals
+款式	种	zhǒng	classifier for types, kinds, sorts
+款项	宗	zōng	classifier for batches, items, cases (medical or legal), reservoirs
+歌	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+歌剧	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+欢腾	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+步枪	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+武器	种	zhǒng	classifier for types, kinds, sorts
+武术	种	zhǒng	classifier for types, kinds, sorts
+历史	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+母亲	个	gè	classifier for people or objects in general
+毒打	顿	dùn	classifier for meals, beatings, scoldings etc: time, bout, spell, meal
+比萨饼	张	zhāng	classifier for flat objects, sheet; classifier for votes
+比赛	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+毛巾	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+毛病	个	gè	classifier for people or objects in general
+毛笔	枝	zhī	classifier for sticks, rods, pencils etc
+毛衣	件	jiàn	classifier for events, things, clothes etc
+毛驴	头	tóu	classifier for pigs or livestock
+毯子	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+民族	个	gè	classifier for people or objects in general
+民歌	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+气候	种	zhǒng	classifier for types, kinds, sorts
+气温	个	gè	classifier for people or objects in general
+气象	个	gè	classifier for people or objects in general
+水仙花	棵	kē	classifier for trees, cabbages, plants etc
+水库	座	zuò	classifier for buildings, mountains and similar immovable objects
+水果	个	gè	classifier for people or objects in general
+水果刀	把	bǎ	classifier for objects with handle; classifier for small objects: handful
 水泥	袋	dài	pocket, bag, sack, pouch
-水稻	株	zhū	numerary adjunct for trees; root
+水稻	株	zhū	classifier for trees or plants
 汗	滴	dī	drip; drop of water
-江	条	tiáo	clause, condition; string, stripe
-污染	个	gè	numerary adjunct, piece; single
-汪洋	片	piàn	slice, splinter, strip; rad. 91
-决定	个	gè	numerary adjunct, piece; single
-决心	个	gè	numerary adjunct, piece; single
-汽车	辆	liàng	numerary adjunct for vehicles
-沙	粒	lì	grain; small particle
-沙子	粒	lì	grain; small particle
-沙漠	个	gè	numerary adjunct, piece; single
-沙滩	片	piàn	slice, splinter, strip; rad. 91
-沙发	条	tiáo	clause, condition; string, stripe
-河	条	tiáo	clause, condition; string, stripe
-河流	条	tiáo	clause, condition; string, stripe
-油条	根	gēn	root, base(d on); foundation
-油漆	层	céng	storey, layer, floor, stratum
-油轮	艘	sōu	counter for ships, vessels
-泉水	股	gǔ	thighs, haunches, rump; share
-法律	条	tiáo	clause, condition; string, stripe
-法郎	个	gè	numerary adjunct, piece; single
-泥鳅	条	tiáo	clause, condition; string, stripe
-洋铁箔	张	zhāng	stretch, extend, expand; sheet
-洗澡间	间	jiān	midpoint, space; place, locality
-洗衣机	台	tái	platform; unit; term of address
-洞	个	gè	numerary adjunct, piece; single
-活动	项	xiàng	neck, nape of neck; sum; funds
-活动中心	处	chù	place, locale; department
-派克大衣	件	jiàn	numerary adjunct for article; matter
-浪花	朵	duǒ	cluster of flowers; earlobe
-浴室	间	jiān	midpoint, space; place, locality
-浴巾	条	tiáo	clause, condition; string, stripe
-浴帽	顶	dǐng	top, summit, peak; to carry on the head
-海	个	gè	numerary adjunct, piece; single
-海洋	个	gè	numerary adjunct, piece; single
-海滩	片	piàn	slice, splinter, strip; rad. 91
-海关	个	gè	numerary adjunct, piece; single
-海鹫	只	zhī	only, just, simply
-消息	条	tiáo	clause, condition; string, stripe
-消费	个	gè	numerary adjunct, piece; single
-凉席	张	zhāng	stretch, extend, expand; sheet
-渠	条	tiáo	clause, condition; string, stripe
-测验	次	cì	order, sequence; next
-港	个	gè	numerary adjunct, piece; single
-游泳池	场	chǎng	open space, field, market
-湖	个	gè	numerary adjunct, piece; single
-汤匙	把	bǎ	hold, take; guard; regard as
-沟	道	dào	path, road, street; method, way
-温度	个	gè	numerary adjunct, piece; single
-滑雪板	副	fù	assist; supplement; assistant
-渔船	条	tiáo	clause, condition; string, stripe
-漆	道	dào	path, road, street; method, way
-演出	场	chǎng	open space, field, market
-演出地点	处	chù	place, locale; department
-演员	个	gè	numerary adjunct, piece; single
-汉字	个	gè	numerary adjunct, piece; single
-汉语	门	mén	gate, door, entrance, opening
-激光唱片	片	piàn	slice, splinter, strip; rad. 91
-滩	片	piàn	slice, splinter, strip; rad. 91
-火器	架	jià	rack, stand, prop; prop up
-火把	把	bǎ	hold, take; guard; regard as
-火柴	根	gēn	root, base(d on); foundation
-火炬	把	bǎ	hold, take; guard; regard as
-火箭	枚	méi	stalk of shrub, trunk of tree
-火腿	个	gè	numerary adjunct, piece; single
+江	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+污染	个	gè	classifier for people or objects in general
+汪洋	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+决定	个	gè	classifier for people or objects in general
+决心	个	gè	classifier for people or objects in general
+汽车	辆	liàng	classifier for vehicles
+沙	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+沙子	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+沙漠	个	gè	classifier for people or objects in general
+沙滩	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+沙发	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+河	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+河流	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+油条	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+油漆	层	céng	classifier for layers
+油轮	艘	sōu	classifier for ships
+泉水	股	gǔ	classifier for smells, electric currents, spirals etc
+法律	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+法郎	个	gè	classifier for people or objects in general
+泥鳅	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+洋铁箔	张	zhāng	classifier for flat objects, sheet; classifier for votes
+洗澡间	间	jiān	classifier for rooms
+洗衣机	台	tái	classifier for vehicles or machines
+洞	个	gè	classifier for people or objects in general
+活动	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+活动中心	处	chù	classifier for locations or items of damage: spot, point
+派克大衣	件	jiàn	classifier for events, things, clothes etc
+浪花	朵	duǒ	classifier for flowers, clouds etc
+浴室	间	jiān	classifier for rooms
+浴巾	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+浴帽	顶	dǐng	classifier for headwear, hats, veils etc
+海	个	gè	classifier for people or objects in general
+海洋	个	gè	classifier for people or objects in general
+海滩	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+海关	个	gè	classifier for people or objects in general
+海鹫	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+消息	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+消费	个	gè	classifier for people or objects in general
+凉席	张	zhāng	classifier for flat objects, sheet; classifier for votes
+渠	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+测验	次	cì	classifier for enumerated events: time
+港	个	gè	classifier for people or objects in general
+游泳池	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+湖	个	gè	classifier for people or objects in general
+汤匙	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+沟	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+温度	个	gè	classifier for people or objects in general
+滑雪板	副	fù	classifier for pairs, sets of things & facial expressions
+渔船	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+漆	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+演出	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+演出地点	处	chù	classifier for locations or items of damage: spot, point
+演员	个	gè	classifier for people or objects in general
+汉字	个	gè	classifier for people or objects in general
+汉语	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+激光唱片	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+滩	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+火器	架	jià	classifier for planes, large vehicles, radios etc
+火把	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+火柴	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+火炬	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+火箭	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+火腿	个	gè	classifier for people or objects in general
 火车	列	liè	a line; to arrange in order, classify
-灰岩	块	kuài	piece, lump; dollar
-灶间	间	jiān	midpoint, space; place, locality
-灾害	个	gè	numerary adjunct, piece; single
-炮	座	zuò	seat; stand, base
-炮弹	枚	méi	stalk of shrub, trunk of tree
-炸弹	枚	méi	stalk of shrub, trunk of tree
-乌青	块	kuài	piece, lump; dollar
-焊工	名	míng	name, rank, title, position
-煎饼	张	zhāng	stretch, extend, expand; sheet
-烟	根	gēn	root, base(d on); foundation
-烟	缕	lǚ	thread; detailed, precise
-烟卷儿	棵	kē	numerary adjunct for trees
-烟头	根	gēn	root, base(d on); foundation
-煤	块	kuài	piece, lump; dollar
-照片	张	zhāng	stretch, extend, expand; sheet
-照相机	个	gè	numerary adjunct, piece; single
-熊猫	只	zhī	only, just, simply
-热气	股	gǔ	thighs, haunches, rump; share
-热水瓶	个	gè	numerary adjunct, piece; single
-灯	盏	zhǎn	small cup or container
-灯塔	座	zuò	seat; stand, base
-灯泡	个	gè	numerary adjunct, piece; single
-营业员	个	gè	numerary adjunct, piece; single
-营养	种	zhǒng	seed; race, breed; to plant
-争论	次	cì	order, sequence; next
-父亲	个	gè	numerary adjunct, piece; single
-爸爸	个	gè	numerary adjunct, piece; single
-爷爷	个	gè	numerary adjunct, piece; single
-墙	面	miàn	face; surface; plane; side, dimension
-牌	片	piàn	slice, splinter, strip; rad. 91
-牙	颗	kē	grain, kernel
-牙刷	把	bǎ	hold, take; guard; regard as
-牙线	条	tiáo	clause, condition; string, stripe
-牙膏	管	guǎn	pipe, tube, duct; woodwind music
-牙齿	颗	kē	grain, kernel
-牛	条	tiáo	clause, condition; string, stripe
-牛仔裤	条	tiáo	clause, condition; string, stripe
-牛奶	瓶	píng	jug, pitcher, vase, jar, bottle
-牛马	只	zhī	only, just, simply
-物价	个	gè	numerary adjunct, piece; single
-物质	个	gè	numerary adjunct, piece; single
-特点	个	gè	numerary adjunct, piece; single
-牺牲	个	gè	numerary adjunct, piece; single
-状态	个	gè	numerary adjunct, piece; single
-状况	个	gè	numerary adjunct, piece; single
-狗	只	zhī	only, just, simply
-狗吠	声	shēng	sound, voice, noise; tone; music
-狗獾	只	zhī	only, just, simply
-狗鹫	只	zhī	only, just, simply
-狠劲	股	gǔ	thighs, haunches, rump; share
-狼	匹	pǐ	bolt of cloth; counter for horses
-猴	只	zhī	only, just, simply
-猴子	只	zhī	only, just, simply
-狮子	只	zhī	only, just, simply
-奖	个	gè	numerary adjunct, piece; single
-奖学金	个	gè	numerary adjunct, piece; single
-奖章	枚	méi	stalk of shrub, trunk of tree
-奖项	项	xiàng	neck, nape of neck; sum; funds
-玉米	粒	lì	grain; small particle
-王后	个	gè	numerary adjunct, piece; single
-玫瑰	朵	duǒ	cluster of flowers; earlobe
-玳瑁眼镜	副	fù	assist; supplement; assistant
-玻璃	张	zhāng	stretch, extend, expand; sheet
-珍珠	颗	kē	grain, kernel
-珠	粒	lì	grain; small particle
-珠子	粒	lì	grain; small particle
-班	个	gè	numerary adjunct, piece; single
-班机	趟	tàng	time, occasion; take journey
-班长	个	gè	numerary adjunct, piece; single
-现代化	个	gè	numerary adjunct, piece; single
-现象	个	gè	numerary adjunct, piece; single
-球	个	gè	numerary adjunct, piece; single
-球	场	chǎng	open space, field, market
-球场	个	gè	numerary adjunct, piece; single
-球赛	场	chǎng	open space, field, market
-球迷	个	gè	numerary adjunct, piece; single
-理由	个	gè	numerary adjunct, piece; single
-理论	个	gè	numerary adjunct, piece; single
-理发店	家	jiā	house, home, residence; family
-理发厅	家	jiā	house, home, residence; family
-环境	个	gè	numerary adjunct, piece; single
-瓦片	块	kuài	piece, lump; dollar
-瓶	个	gè	numerary adjunct, piece; single
-瓶子	个	gè	numerary adjunct, piece; single
-甘蔗	节	jié	knot, node, joint; section
-生命	个	gè	numerary adjunct, piece; single
-生意	笔	bǐ	writing brush; write; stroke
-生日	个	gè	numerary adjunct, piece; single
-生物	个	gè	numerary adjunct, piece; single
-生词	组	zǔ	class; section, department
-产品	个	gè	numerary adjunct, piece; single
-用处	个	gè	numerary adjunct, piece; single
-田	片	piàn	slice, splinter, strip; rad. 91
-田野	片	piàn	slice, splinter, strip; rad. 91
-申请	份	fèn	portion, part; duty
-男	个	gè	numerary adjunct, piece; single
-男人	个	gè	numerary adjunct, piece; single
-男孩	个	gè	numerary adjunct, piece; single
-留学生	个	gè	numerary adjunct, piece; single
-留言簿	本	běn	root, origin, source; basis
-毕业证书	张	zhāng	stretch, extend, expand; sheet
-画	幅	fú	piece, strip, breadth of, hem
-画报	本	běn	root, origin, source; basis
-画家	个	gè	numerary adjunct, piece; single
-当铺	家	jiā	house, home, residence; family
-病	场	cháng	open space, field, market
-病人	个	gè	numerary adjunct, piece; single
-病室	间	jiān	midpoint, space; place, locality
-病房	间	jiān	midpoint, space; place, locality
-痛苦	个	gè	numerary adjunct, piece; single
-发动机	台	tái	platform; unit; term of address
-发明	个	gè	numerary adjunct, piece; single
-发言	个	gè	numerary adjunct, piece; single
-白天	个	gè	numerary adjunct, piece; single
-白杨	棵	kē	numerary adjunct for trees
-白菜	棵	kē	numerary adjunct for trees
-白发	根	gēn	root, base(d on); foundation
-百科全书	本	běn	root, origin, source; basis
-皇帝	个	gè	numerary adjunct, piece; single
-皮	张	zhāng	stretch, extend, expand; sheet
-皮具	件	jiàn	numerary adjunct for article; matter
-皮带	条	tiáo	clause, condition; string, stripe
-皮肤	层	céng	storey, layer, floor, stratum
-皮革	张	zhāng	stretch, extend, expand; sheet
-皱纹	道	dào	path, road, street; method, way
-盆	个	gè	numerary adjunct, piece; single
-盒带	盘	pán	tray, plate, dish; examine
-盘子	个	gè	numerary adjunct, piece; single
-盘秤	台	tái	platform; unit; term of address
-盥洗室	间	jiān	midpoint, space; place, locality
-目标	个	gè	numerary adjunct, piece; single
-目的	个	gè	numerary adjunct, piece; single
-直升机	架	jià	rack, stand, prop; prop up
-相片	张	zhāng	stretch, extend, expand; sheet
-省	个	gè	numerary adjunct, piece; single
-眉毛	根	gēn	root, base(d on); foundation
-看法	个	gè	numerary adjunct, piece; single
-真心	片	piàn	slice, splinter, strip; rad. 91
-真理	个	gè	numerary adjunct, piece; single
-眼	只	zhī	only, just, simply
+灰岩	块	kuài	classifier for pieces of cloth, cake, soap etc
+灶间	间	jiān	classifier for rooms
+灾害	个	gè	classifier for people or objects in general
+炮	座	zuò	classifier for buildings, mountains and similar immovable objects
+炮弹	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+炸弹	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+乌青	块	kuài	classifier for pieces of cloth, cake, soap etc
+焊工	名	míng	classifier for people
+煎饼	张	zhāng	classifier for flat objects, sheet; classifier for votes
+烟	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+烟	缕	lǚ	classifier for wisps (of smoke, mist or vapor), strands, locks (of hair)
+烟卷儿	棵	kē	classifier for trees, cabbages, plants etc
+烟头	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+煤	块	kuài	classifier for pieces of cloth, cake, soap etc
+照片	张	zhāng	classifier for flat objects, sheet; classifier for votes
+照相机	个	gè	classifier for people or objects in general
+熊猫	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+热气	股	gǔ	classifier for smells, electric currents, spirals etc
+热水瓶	个	gè	classifier for people or objects in general
+灯	盏	zhǎn	classifier for lamps
+灯塔	座	zuò	classifier for buildings, mountains and similar immovable objects
+灯泡	个	gè	classifier for people or objects in general
+营业员	个	gè	classifier for people or objects in general
+营养	种	zhǒng	classifier for types, kinds, sorts
+争论	次	cì	classifier for enumerated events: time
+父亲	个	gè	classifier for people or objects in general
+爸爸	个	gè	classifier for people or objects in general
+爷爷	个	gè	classifier for people or objects in general
+墙	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+牌	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+牙	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+牙刷	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+牙线	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+牙膏	管	guǎn	classifier for tube-shaped objects
+牙齿	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+牛	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+牛仔裤	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+牛奶	瓶	píng	classifier for wine and liquids
+牛马	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+物价	个	gè	classifier for people or objects in general
+物质	个	gè	classifier for people or objects in general
+特点	个	gè	classifier for people or objects in general
+牺牲	个	gè	classifier for people or objects in general
+状态	个	gè	classifier for people or objects in general
+状况	个	gè	classifier for people or objects in general
+狗	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+狗吠	声	shēng	classifier for sounds
+狗獾	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+狗鹫	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+狠劲	股	gǔ	classifier for smells, electric currents, spirals etc
+狼	匹	pǐ	classifier for horses, mules etc; classifier for cloth: bolt; classifier for cloth: bolt
+猴	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+猴子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+狮子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+奖	个	gè	classifier for people or objects in general
+奖学金	个	gè	classifier for people or objects in general
+奖章	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+奖项	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+玉米	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+王后	个	gè	classifier for people or objects in general
+玫瑰	朵	duǒ	classifier for flowers, clouds etc
+玳瑁眼镜	副	fù	classifier for pairs, sets of things & facial expressions
+玻璃	张	zhāng	classifier for flat objects, sheet; classifier for votes
+珍珠	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+珠	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+珠子	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+班	个	gè	classifier for people or objects in general
+班机	趟	tàng	classifier for times, round trips or rows
+班长	个	gè	classifier for people or objects in general
+现代化	个	gè	classifier for people or objects in general
+现象	个	gè	classifier for people or objects in general
+球	个	gè	classifier for people or objects in general
+球	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+球场	个	gè	classifier for people or objects in general
+球赛	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+球迷	个	gè	classifier for people or objects in general
+理由	个	gè	classifier for people or objects in general
+理论	个	gè	classifier for people or objects in general
+理发店	家	jiā	classifier for families or businesses
+理发厅	家	jiā	classifier for families or businesses
+环境	个	gè	classifier for people or objects in general
+瓦片	块	kuài	classifier for pieces of cloth, cake, soap etc
+瓶	个	gè	classifier for people or objects in general
+瓶子	个	gè	classifier for people or objects in general
+甘蔗	节	jié	classifier for segments, e.g. lessons, train wagons, biblical verses
+生命	个	gè	classifier for people or objects in general
+生意	笔	bǐ	classifier for sums of money, deals
+生日	个	gè	classifier for people or objects in general
+生物	个	gè	classifier for people or objects in general
+生词	组	zǔ	classifier for sets, series, groups of people, batteries
+产品	个	gè	classifier for people or objects in general
+用处	个	gè	classifier for people or objects in general
+田	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+田野	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+申请	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+男	个	gè	classifier for people or objects in general
+男人	个	gè	classifier for people or objects in general
+男孩	个	gè	classifier for people or objects in general
+留学生	个	gè	classifier for people or objects in general
+留言簿	本	běn	classifier for books, periodicals, files etc
+毕业证书	张	zhāng	classifier for flat objects, sheet; classifier for votes
+画	幅	fú	classifier for textiles or pictures
+画报	本	běn	classifier for books, periodicals, files etc
+画家	个	gè	classifier for people or objects in general
+当铺	家	jiā	classifier for families or businesses
+病	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+病人	个	gè	classifier for people or objects in general
+病室	间	jiān	classifier for rooms
+病房	间	jiān	classifier for rooms
+痛苦	个	gè	classifier for people or objects in general
+发动机	台	tái	classifier for vehicles or machines
+发明	个	gè	classifier for people or objects in general
+发言	个	gè	classifier for people or objects in general
+白天	个	gè	classifier for people or objects in general
+白杨	棵	kē	classifier for trees, cabbages, plants etc
+白菜	棵	kē	classifier for trees, cabbages, plants etc
+白发	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+百科全书	本	běn	classifier for books, periodicals, files etc
+皇帝	个	gè	classifier for people or objects in general
+皮	张	zhāng	classifier for flat objects, sheet; classifier for votes
+皮具	件	jiàn	classifier for events, things, clothes etc
+皮带	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+皮肤	层	céng	classifier for layers
+皮革	张	zhāng	classifier for flat objects, sheet; classifier for votes
+皱纹	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+盆	个	gè	classifier for people or objects in general
+盒带	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+盘子	个	gè	classifier for people or objects in general
+盘秤	台	tái	classifier for vehicles or machines
+盥洗室	间	jiān	classifier for rooms
+目标	个	gè	classifier for people or objects in general
+目的	个	gè	classifier for people or objects in general
+直升机	架	jià	classifier for planes, large vehicles, radios etc
+相片	张	zhāng	classifier for flat objects, sheet; classifier for votes
+省	个	gè	classifier for people or objects in general
+眉毛	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+看法	个	gè	classifier for people or objects in general
+真心	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+真理	个	gè	classifier for people or objects in general
+眼	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
 眼泪	滴	dī	drip; drop of water
-眼睛	只	zhī	only, just, simply
-眼镜	副	fù	assist; supplement; assistant
-矛盾	个	gè	numerary adjunct, piece; single
-知识	门	mén	gate, door, entrance, opening
-石碑	方	fāng	a square, rectangle; a region; local
-石头	块	kuài	piece, lump; dollar
-研究	项	xiàng	neck, nape of neck; sum; funds
-研究所	个	gè	numerary adjunct, piece; single
-硬币	枚	méi	stalk of shrub, trunk of tree
-砚台	方	fāng	a square, rectangle; a region; local
-碑	块	kuài	piece, lump; dollar
-碗	只	zhī	only, just, simply
-碟子	盘	pán	tray, plate, dish; examine
-碟片	张	zhāng	stretch, extend, expand; sheet
-码头	个	gè	numerary adjunct, piece; single
-磁带	盘	pán	tray, plate, dish; examine
-砖	块	kuài	piece, lump; dollar
-矿泉水	瓶	píng	jug, pitcher, vase, jar, bottle
-社会	个	gè	numerary adjunct, piece; single
-社论	篇	piān	chapter, section, essay, article
-祖国	个	gè	numerary adjunct, piece; single
-祝贺	个	gè	numerary adjunct, piece; single
-神	个	gè	numerary adjunct, piece; single
-票	张	zhāng	stretch, extend, expand; sheet
-礼	份	fèn	portion, part; duty
-礼堂	座	zuò	seat; stand, base
-礼拜	个	gè	numerary adjunct, piece; single
-礼物	件	jiàn	numerary adjunct for article; matter
-禾苗	棵	kē	numerary adjunct for trees
-秀	场	cháng	open space, field, market
-秋天	个	gè	numerary adjunct, piece; single
-科	个	gè	numerary adjunct, piece; single
-科学	门	mén	gate, door, entrance, opening
-科学家	个	gè	numerary adjunct, piece; single
-科学院	个	gè	numerary adjunct, piece; single
-科长	个	gè	numerary adjunct, piece; single
-秘密	个	gè	numerary adjunct, piece; single
-秤	台	tái	platform; unit; term of address
-秩序	个	gè	numerary adjunct, piece; single
-程度	个	gè	numerary adjunct, piece; single
-种子	颗	kē	grain, kernel
-稿费	笔	bǐ	writing brush; write; stroke
-空城计	条	tiáo	clause, condition; string, stripe
-空调	台	tái	platform; unit; term of address
-空间	个	gè	numerary adjunct, piece; single
-窗	扇	shàn	fan; door panel
-窗户	个	gè	numerary adjunct, piece; single
-窑洞	孔	kǒng	opening, hole, orifice; great
-窃蠹甲	只	zhī	only, just, simply
-立场	个	gè	numerary adjunct, piece; single
-竞赛	个	gè	numerary adjunct, piece; single
-竹	棵	kē	numerary adjunct for trees
-竹子	棵	kē	numerary adjunct for trees
-竿子	根	gēn	root, base(d on); foundation
-笑	个	gè	numerary adjunct, piece; single
-笑容	副	fù	assist; supplement; assistant
-笑脸	副	fù	assist; supplement; assistant
-笑话	个	gè	numerary adjunct, piece; single
-笛子	管	guǎn	pipe, tube, duct; woodwind music
-笞杖	根	gēn	root, base(d on); foundation
-笤帚	把	bǎ	hold, take; guard; regard as
-笔	支	zhī	disperse, pay; support; branch
-笔记	本	běn	root, origin, source; basis
-笔记本	本	běn	root, origin, source; basis
-笔记本电脑	台	tái	platform; unit; term of address
-笔误	处	chù	place, locale; department
-笔电	台	tái	platform; unit; term of address
-筐	只	zhī	only, just, simply
-答卷	份	fèn	portion, part; duty
-答案	个	gè	numerary adjunct, piece; single
-筷子	对	duì	correct, right; facing, opposed
-箍带	条	tiáo	clause, condition; string, stripe
-算盘	把	bǎ	hold, take; guard; regard as
-管子	根	gēn	root, base(d on); foundation
-管理	个	gè	numerary adjunct, piece; single
-管龠	把	bǎ	hold, take; guard; regard as
-箭	支	zhī	disperse, pay; support; branch
-箱子	只	zhī	only, just, simply
-节	个	gè	numerary adjunct, piece; single
-节日	个	gè	numerary adjunct, piece; single
-节目	台	tái	platform; unit; term of address
-范围	个	gè	numerary adjunct, piece; single
-筛子	面	miàn	face; surface; plane; side, dimension
-签证	个	gè	numerary adjunct, piece; single
-篮子	只	zhī	only, just, simply
-篮球	个	gè	numerary adjunct, piece; single
-米	粒	lì	grain; small particle
-粉笔	支	zhī	disperse, pay; support; branch
-粉丝	把	bǎ	hold, take; guard; regard as
+眼睛	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+眼镜	副	fù	classifier for pairs, sets of things & facial expressions
+矛盾	个	gè	classifier for people or objects in general
+知识	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+石碑	方	fāng	classifier for square things
+石头	块	kuài	classifier for pieces of cloth, cake, soap etc
+研究	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+研究所	个	gè	classifier for people or objects in general
+硬币	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+砚台	方	fāng	classifier for square things
+碑	块	kuài	classifier for pieces of cloth, cake, soap etc
+碗	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+碟子	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+碟片	张	zhāng	classifier for flat objects, sheet; classifier for votes
+码头	个	gè	classifier for people or objects in general
+磁带	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+砖	块	kuài	classifier for pieces of cloth, cake, soap etc
+矿泉水	瓶	píng	classifier for wine and liquids
+社会	个	gè	classifier for people or objects in general
+社论	篇	piān	classifier for written items: chapter, article
+祖国	个	gè	classifier for people or objects in general
+祝贺	个	gè	classifier for people or objects in general
+神	个	gè	classifier for people or objects in general
+票	张	zhāng	classifier for flat objects, sheet; classifier for votes
+礼	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+礼堂	座	zuò	classifier for buildings, mountains and similar immovable objects
+礼拜	个	gè	classifier for people or objects in general
+礼物	件	jiàn	classifier for events, things, clothes etc
+禾苗	棵	kē	classifier for trees, cabbages, plants etc
+秀	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+秋天	个	gè	classifier for people or objects in general
+科	个	gè	classifier for people or objects in general
+科学	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+科学家	个	gè	classifier for people or objects in general
+科学院	个	gè	classifier for people or objects in general
+科长	个	gè	classifier for people or objects in general
+秘密	个	gè	classifier for people or objects in general
+秤	台	tái	classifier for vehicles or machines
+秩序	个	gè	classifier for people or objects in general
+程度	个	gè	classifier for people or objects in general
+种子	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+稿费	笔	bǐ	classifier for sums of money, deals
+空城计	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+空调	台	tái	classifier for vehicles or machines
+空间	个	gè	classifier for people or objects in general
+窗	扇	shàn	classifier for doors, windows etc
+窗户	个	gè	classifier for people or objects in general
+窑洞	孔	kǒng	classifier for cave dwellings
+窃蠹甲	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+立场	个	gè	classifier for people or objects in general
+竞赛	个	gè	classifier for people or objects in general
+竹	棵	kē	classifier for trees, cabbages, plants etc
+竹子	棵	kē	classifier for trees, cabbages, plants etc
+竿子	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+笑	个	gè	classifier for people or objects in general
+笑容	副	fù	classifier for pairs, sets of things & facial expressions
+笑脸	副	fù	classifier for pairs, sets of things & facial expressions
+笑话	个	gè	classifier for people or objects in general
+笛子	管	guǎn	classifier for tube-shaped objects
+笞杖	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+笤帚	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+笔	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+笔记	本	běn	classifier for books, periodicals, files etc
+笔记本	本	běn	classifier for books, periodicals, files etc
+笔记本电脑	台	tái	classifier for vehicles or machines
+笔误	处	chù	classifier for locations or items of damage: spot, point
+笔电	台	tái	classifier for vehicles or machines
+筐	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+答卷	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+答案	个	gè	classifier for people or objects in general
+筷子	对	duì	classifier: couple
+箍带	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+算盘	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+管子	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+管理	个	gè	classifier for people or objects in general
+管龠	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+箭	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+箱子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+节	个	gè	classifier for people or objects in general
+节日	个	gè	classifier for people or objects in general
+节目	台	tái	classifier for vehicles or machines
+范围	个	gè	classifier for people or objects in general
+筛子	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+签证	个	gè	classifier for people or objects in general
+篮子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+篮球	个	gè	classifier for people or objects in general
+米	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+粉笔	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+粉丝	把	bǎ	classifier for objects with handle; classifier for small objects: handful
 粥	碗	wǎn	bowl, small dish
-精神	个	gè	numerary adjunct, piece; single
-糖	颗	kē	grain, kernel
-糖果	粒	lì	grain; small particle
-粮食	种	zhǒng	seed; race, breed; to plant
-糯米糕	块	kuài	piece, lump; dollar
-系主任	位	wèi	throne; position, post; rank, status; seat
-系统	个	gè	numerary adjunct, piece; single
-纪念	个	gè	numerary adjunct, piece; single
-纪念章	枚	méi	stalk of shrub, trunk of tree
-纪录片	部	bù	part, division, section
-约会	次	cì	order, sequence; next
-红旗	面	miàn	face; surface; plane; side, dimension
-红树	棵	kē	numerary adjunct for trees
-红茶	杯	bēi	cup, glass
-纸	张	zhāng	stretch, extend, expand; sheet
-纸巾	张	zhāng	stretch, extend, expand; sheet
-纸币	张	zhāng	stretch, extend, expand; sheet
-级	个	gè	numerary adjunct, piece; single
-终点	个	gè	numerary adjunct, piece; single
-组织	个	gè	numerary adjunct, piece; single
-结合	次	cì	order, sequence; next
-结婚	次	cì	order, sequence; next
-结果	个	gè	numerary adjunct, piece; single
-结构	座	zuò	seat; stand, base
-结论	个	gè	numerary adjunct, piece; single
-丝	条	tiáo	clause, condition; string, stripe
-经文	本	běn	root, origin, source; basis
-经历	个	gè	numerary adjunct, piece; single
-经理	个	gè	numerary adjunct, piece; single
-经费	笔	bǐ	writing brush; write; stroke
-经过	个	gè	numerary adjunct, piece; single
-绸	匹	pǐ	bolt of cloth; counter for horses
-绸子	匹	pǐ	bolt of cloth; counter for horses
-网球	个	gè	numerary adjunct, piece; single
-网球赛	场	chǎng	open space, field, market
-紧张	阵	zhèn	column, row or file of troops
-线	条	tiáo	clause, condition; string, stripe
-练习	个	gè	numerary adjunct, piece; single
-练习本	本	běn	root, origin, source; basis
-缝	道	dào	path, road, street; method, way
-缝纫机	架	jià	rack, stand, prop; prop up
+精神	个	gè	classifier for people or objects in general
+糖	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+糖果	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+粮食	种	zhǒng	classifier for types, kinds, sorts
+糯米糕	块	kuài	classifier for pieces of cloth, cake, soap etc
+系主任	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+系统	个	gè	classifier for people or objects in general
+纪念	个	gè	classifier for people or objects in general
+纪念章	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+纪录片	部	bù	classifier for works of literature, films, machines etc
+约会	次	cì	classifier for enumerated events: time
+红旗	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+红树	棵	kē	classifier for trees, cabbages, plants etc
+红茶	杯	bēi	classifier for certain containers of liquids: glass, cup; classifier for certain containers of liquids: glass, cup
+纸	张	zhāng	classifier for flat objects, sheet; classifier for votes
+纸巾	张	zhāng	classifier for flat objects, sheet; classifier for votes
+纸币	张	zhāng	classifier for flat objects, sheet; classifier for votes
+级	个	gè	classifier for people or objects in general
+终点	个	gè	classifier for people or objects in general
+组织	个	gè	classifier for people or objects in general
+结合	次	cì	classifier for enumerated events: time
+结婚	次	cì	classifier for enumerated events: time
+结果	个	gè	classifier for people or objects in general
+结构	座	zuò	classifier for buildings, mountains and similar immovable objects
+结论	个	gè	classifier for people or objects in general
+丝	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+经文	本	běn	classifier for books, periodicals, files etc
+经历	个	gè	classifier for people or objects in general
+经理	个	gè	classifier for people or objects in general
+经费	笔	bǐ	classifier for sums of money, deals
+经过	个	gè	classifier for people or objects in general
+绸	匹	pǐ	classifier for horses, mules etc; classifier for cloth: bolt; classifier for cloth: bolt
+绸子	匹	pǐ	classifier for horses, mules etc; classifier for cloth: bolt; classifier for cloth: bolt
+网球	个	gè	classifier for people or objects in general
+网球赛	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+紧张	阵	zhèn	classifier for events or states of short duration
+线	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+练习	个	gè	classifier for people or objects in general
+练习本	本	běn	classifier for books, periodicals, files etc
+缝	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+缝纫机	架	jià	classifier for planes, large vehicles, radios etc
 纵队	列	liè	a line; to arrange in order, classify
-总理	个	gè	numerary adjunct, piece; single
-总结	个	gè	numerary adjunct, piece; single
-总统	个	gè	numerary adjunct, piece; single
-绳	根	gēn	root, base(d on); foundation
-绳子	条	tiáo	clause, condition; string, stripe
-继女	个	gè	numerary adjunct, piece; single
-纤维	种	zhǒng	seed; race, breed; to plant
-缸	口	kǒu	mouth; open end; entrance, gate
-缺点	个	gè	numerary adjunct, piece; single
-罐头	个	gè	numerary adjunct, piece; single
-罩衣	件	jiàn	numerary adjunct for article; matter
-骂	通	tòng	pass through, common, communicate
-羊	头	tóu	head; top; chief, first; boss
-羌鹫	只	zhī	only, just, simply
-美人计	条	tiáo	clause, condition; string, stripe
-美国人	个	gè	numerary adjunct, piece; single
-美容店	家	jiā	house, home, residence; family
-美术	种	zhǒng	seed; race, breed; to plant
-羚羊	只	zhī	only, just, simply
-义务	项	xiàng	neck, nape of neck; sum; funds
-羽毛球	个	gè	numerary adjunct, piece; single
-翅子	只	zhī	only, just, simply
-翅膀	个	gè	numerary adjunct, piece; single
-翎毛	根	gēn	root, base(d on); foundation
-习惯	个	gè	numerary adjunct, piece; single
-翻译	个	gè	numerary adjunct, piece; single
-老丈	位	wèi	throne; position, post; rank, status; seat
-老大娘	位	wèi	throne; position, post; rank, status; seat
-老大妈	位	wèi	throne; position, post; rank, status; seat
-老大爷	位	wèi	throne; position, post; rank, status; seat
-老太太	位	wèi	throne; position, post; rank, status; seat
-老师	个	gè	numerary adjunct, piece; single
-老百姓	个	gè	numerary adjunct, piece; single
-老虎	只	zhī	only, just, simply
-老板	个	gè	numerary adjunct, piece; single
-老头儿	个	gè	numerary adjunct, piece; single
-老鼠	只	zhī	only, just, simply
-考试	次	cì	order, sequence; next
-考试卷	张	zhāng	stretch, extend, expand; sheet
-耳光	记	jì	record; keep in mind, remember
-耳坠子	对	duì	correct, right; facing, opposed
-耳套	副	fù	assist; supplement; assistant
-耳朵	只	zhī	only, just, simply
-耳环	只	zhī	only, just, simply
-圣像	张	zhāng	stretch, extend, expand; sheet
-圣经	本	běn	root, origin, source; basis
-声明	项	xiàng	neck, nape of neck; sum; funds
-声调	个	gè	numerary adjunct, piece; single
-声音	个	gè	numerary adjunct, piece; single
-职员	个	gè	numerary adjunct, piece; single
-职工	个	gè	numerary adjunct, piece; single
-听写	次	cì	order, sequence; next
-肚子	个	gè	numerary adjunct, piece; single
-肝	叶	yè	to harmonize, to rhyme; to unite; (borrowed for) leaf
-肥皂	块	kuài	piece, lump; dollar
-肩带	条	tiáo	clause, condition; string, stripe
-肺	个	gè	numerary adjunct, piece; single
-胃	个	gè	numerary adjunct, piece; single
-背包	个	gè	numerary adjunct, piece; single
-背心	件	jiàn	numerary adjunct for article; matter
-背景	种	zhǒng	seed; race, breed; to plant
-胡同	条	tiáo	clause, condition; string, stripe
-胳膊	只	zhī	only, just, simply
-胳臂	条	tiáo	clause, condition; string, stripe
-胸章	枚	méi	stalk of shrub, trunk of tree
-能力	个	gè	numerary adjunct, piece; single
-能源	个	gè	numerary adjunct, piece; single
-脖子	个	gè	numerary adjunct, piece; single
-脾气	个	gè	numerary adjunct, piece; single
-脑子	个	gè	numerary adjunct, piece; single
-脑袋	颗	kē	grain, kernel
+总理	个	gè	classifier for people or objects in general
+总结	个	gè	classifier for people or objects in general
+总统	个	gè	classifier for people or objects in general
+绳	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+绳子	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+继女	个	gè	classifier for people or objects in general
+纤维	种	zhǒng	classifier for types, kinds, sorts
+缸	口	kǒu	classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls
+缺点	个	gè	classifier for people or objects in general
+罐头	个	gè	classifier for people or objects in general
+罩衣	件	jiàn	classifier for events, things, clothes etc
+骂	通	tòng	classifier for letters, telegrams, phone calls etc; classifier for an activity, taken in its entirety (tirade of abuse, stint of music playing, bout of drinking etc)
+羊	头	tóu	classifier for pigs or livestock
+羌鹫	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+美人计	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+美国人	个	gè	classifier for people or objects in general
+美容店	家	jiā	classifier for families or businesses
+美术	种	zhǒng	classifier for types, kinds, sorts
+羚羊	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+义务	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+羽毛球	个	gè	classifier for people or objects in general
+翅子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+翅膀	个	gè	classifier for people or objects in general
+翎毛	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+习惯	个	gè	classifier for people or objects in general
+翻译	个	gè	classifier for people or objects in general
+老丈	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+老大娘	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+老大妈	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+老大爷	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+老太太	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+老师	个	gè	classifier for people or objects in general
+老百姓	个	gè	classifier for people or objects in general
+老虎	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+老板	个	gè	classifier for people or objects in general
+老头儿	个	gè	classifier for people or objects in general
+老鼠	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+考试	次	cì	classifier for enumerated events: time
+考试卷	张	zhāng	classifier for flat objects, sheet; classifier for votes
+耳光	记	jì	classifier for blows, kicks, shots
+耳坠子	对	duì	classifier: couple
+耳套	副	fù	classifier for pairs, sets of things & facial expressions
+耳朵	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+耳环	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+圣像	张	zhāng	classifier for flat objects, sheet; classifier for votes
+圣经	本	běn	classifier for books, periodicals, files etc
+声明	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+声调	个	gè	classifier for people or objects in general
+声音	个	gè	classifier for people or objects in general
+职员	个	gè	classifier for people or objects in general
+职工	个	gè	classifier for people or objects in general
+听写	次	cì	classifier for enumerated events: time
+肚子	个	gè	classifier for people or objects in general
+肝	叶	yè	classifier for small boats
+肥皂	块	kuài	classifier for pieces of cloth, cake, soap etc
+肩带	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+肺	个	gè	classifier for people or objects in general
+胃	个	gè	classifier for people or objects in general
+背包	个	gè	classifier for people or objects in general
+背心	件	jiàn	classifier for events, things, clothes etc
+背景	种	zhǒng	classifier for types, kinds, sorts
+胡同	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+胳膊	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+胳臂	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+胸章	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+能力	个	gè	classifier for people or objects in general
+能源	个	gè	classifier for people or objects in general
+脖子	个	gè	classifier for people or objects in general
+脾气	个	gè	classifier for people or objects in general
+脑子	个	gè	classifier for people or objects in general
+脑袋	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
 脚	双	shuāng	set of two, pair, couple; both
-脚踏车	辆	liàng	numerary adjunct for vehicles
-腿	条	tiáo	clause, condition; string, stripe
+脚踏车	辆	liàng	classifier for vehicles
+腿	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
 膏	帖	tiě	invitation card; notice
-脸	张	zhāng	stretch, extend, expand; sheet
-脸盆	个	gè	numerary adjunct, piece; single
-卧室	间	jiān	midpoint, space; place, locality
-自由	个	gè	numerary adjunct, piece; single
-自行车	辆	liàng	numerary adjunct for vehicles
-臭骂	顿	dùn	pause, stop; bow, kowtow; arrange
-臭脸	张	zhāng	stretch, extend, expand; sheet
-舅舅	个	gè	numerary adjunct, piece; single
-兴趣	个	gè	numerary adjunct, piece; single
-舌头	个	gè	numerary adjunct, piece; single
-舞厅	间	jiān	midpoint, space; place, locality
-舞会	场	chǎng	open space, field, market
-航次	个	gè	numerary adjunct, piece; single
-航空公司	家	jiā	house, home, residence; family
-航空母舰	艘	sōu	counter for ships, vessels
-船	条	tiáo	clause, condition; string, stripe
-舰队	支	zhī	disperse, pay; support; branch
-色	种	zhǒng	seed; race, breed; to plant
-花	朵	duǒ	cluster of flowers; earlobe
-花儿	首	shǒu	head; first; leader, chief; a poem
-花园	座	zuò	seat; stand, base
-花瓣	片	piàn	slice, splinter, strip; rad. 91
-花瓶	对	duì	correct, right; facing, opposed
-花生	粒	lì	grain; small particle
-花茶	杯	bēi	cup, glass
-花豹	只	zhī	only, just, simply
-苦肉计	条	tiáo	clause, condition; string, stripe
-英雄	个	gè	numerary adjunct, piece; single
-茅台酒	杯	bēi	cup, glass
-茶	杯	bēi	cup, glass
-茶壶	把	bǎ	hold, take; guard; regard as
-茶杯	只	zhī	only, just, simply
+脸	张	zhāng	classifier for flat objects, sheet; classifier for votes
+脸盆	个	gè	classifier for people or objects in general
+卧室	间	jiān	classifier for rooms
+自由	个	gè	classifier for people or objects in general
+自行车	辆	liàng	classifier for vehicles
+臭骂	顿	dùn	classifier for meals, beatings, scoldings etc: time, bout, spell, meal
+臭脸	张	zhāng	classifier for flat objects, sheet; classifier for votes
+舅舅	个	gè	classifier for people or objects in general
+兴趣	个	gè	classifier for people or objects in general
+舌头	个	gè	classifier for people or objects in general
+舞厅	间	jiān	classifier for rooms
+舞会	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+航次	个	gè	classifier for people or objects in general
+航空公司	家	jiā	classifier for families or businesses
+航空母舰	艘	sōu	classifier for ships
+船	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+舰队	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+色	种	zhǒng	classifier for types, kinds, sorts
+花	朵	duǒ	classifier for flowers, clouds etc
+花儿	首	shǒu	classifier for poems, songs etc
+花园	座	zuò	classifier for buildings, mountains and similar immovable objects
+花瓣	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+花瓶	对	duì	classifier: couple
+花生	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+花茶	杯	bēi	classifier for certain containers of liquids: glass, cup; classifier for certain containers of liquids: glass, cup
+花豹	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+苦肉计	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+英雄	个	gè	classifier for people or objects in general
+茅台酒	杯	bēi	classifier for certain containers of liquids: glass, cup; classifier for certain containers of liquids: glass, cup
+茶	杯	bēi	classifier for certain containers of liquids: glass, cup; classifier for certain containers of liquids: glass, cup
+茶壶	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+茶杯	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
 茶叶	盒	hé	small box or case; casket
-茶馆	家	jiā	house, home, residence; family
-草	棵	kē	numerary adjunct for trees
-草原	片	piàn	slice, splinter, strip; rad. 91
-草地	片	piàn	slice, splinter, strip; rad. 91
-草莓	颗	kē	grain, kernel
-荒岛	个	gè	numerary adjunct, piece; single
-庄稼	种	zhǒng	seed; race, breed; to plant
-茎	条	tiáo	clause, condition; string, stripe
-菜	盘	pán	tray, plate, dish; examine
-菜刀	把	bǎ	hold, take; guard; regard as
-菜单	份	fèn	portion, part; duty
-菜板	张	zhāng	stretch, extend, expand; sheet
-菠菜	棵	kē	numerary adjunct for trees
-华侨	个	gè	numerary adjunct, piece; single
-落地窗	扇	shàn	fan; door panel
-叶子	片	piàn	slice, splinter, strip; rad. 91
-著作	部	bù	part, division, section
-蒜	头	tóu	head; top; chief, first; boss
-苍蝇	只	zhī	only, just, simply
-蔬菜	种	zhǒng	seed; race, breed; to plant
-薄膜	层	céng	storey, layer, floor, stratum
-艺术品	件	jiàn	numerary adjunct for article; matter
-艺术家	个	gè	numerary adjunct, piece; single
-艺术片	部	bù	part, division, section
-药	种	zhǒng	seed; race, breed; to plant
-药丸	粒	lì	grain; small particle
-药片	片	piàn	slice, splinter, strip; rad. 91
-苹果	个	gè	numerary adjunct, piece; single
-萝卜	条	tiáo	clause, condition; string, stripe
-虎	只	zhī	only, just, simply
-处分	个	gè	numerary adjunct, piece; single
-处理	个	gè	numerary adjunct, piece; single
-虚惊	场	cháng	open space, field, market
-号	个	gè	numerary adjunct, piece; single
+茶馆	家	jiā	classifier for families or businesses
+草	棵	kē	classifier for trees, cabbages, plants etc
+草原	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+草地	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+草莓	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+荒岛	个	gè	classifier for people or objects in general
+庄稼	种	zhǒng	classifier for types, kinds, sorts
+茎	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+菜	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+菜刀	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+菜单	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+菜板	张	zhāng	classifier for flat objects, sheet; classifier for votes
+菠菜	棵	kē	classifier for trees, cabbages, plants etc
+华侨	个	gè	classifier for people or objects in general
+落地窗	扇	shàn	classifier for doors, windows etc
+叶子	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+著作	部	bù	classifier for works of literature, films, machines etc
+蒜	头	tóu	classifier for pigs or livestock
+苍蝇	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+蔬菜	种	zhǒng	classifier for types, kinds, sorts
+薄膜	层	céng	classifier for layers
+艺术品	件	jiàn	classifier for events, things, clothes etc
+艺术家	个	gè	classifier for people or objects in general
+艺术片	部	bù	classifier for works of literature, films, machines etc
+药	种	zhǒng	classifier for types, kinds, sorts
+药丸	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+药片	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+苹果	个	gè	classifier for people or objects in general
+萝卜	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+虎	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+处分	个	gè	classifier for people or objects in general
+处理	个	gè	classifier for people or objects in general
+虚惊	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+号	个	gè	classifier for people or objects in general
 号码	堆	duī	heap, pile, crowd; pile up
-号码牌	条	tiáo	clause, condition; string, stripe
-蚊帐	顶	dǐng	top, summit, peak; to carry on the head
-蛀牙	颗	kē	grain, kernel
-蛇	条	tiáo	clause, condition; string, stripe
-蛋	个	gè	numerary adjunct, piece; single
-蛋糕	块	kuài	piece, lump; dollar
-蛙	只	zhī	only, just, simply
+号码牌	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+蚊帐	顶	dǐng	classifier for headwear, hats, veils etc
+蛀牙	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+蛇	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+蛋	个	gè	classifier for people or objects in general
+蛋糕	块	kuài	classifier for pieces of cloth, cake, soap etc
+蛙	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
 蜂群	队	duì	team, group; army unit
-蜜蜂	只	zhī	only, just, simply
-蝌蚪	只	zhī	only, just, simply
-蝴蝶	只	zhī	only, just, simply
-蝶	只	zhī	only, just, simply
-螃蟹	只	zhī	only, just, simply
-螺丝刀	把	bǎ	hold, take; guard; regard as
-虫	条	tiáo	clause, condition; string, stripe
-虫子	条	tiáo	clause, condition; string, stripe
-蝇	只	zhī	only, just, simply
-蛴螬	条	tiáo	clause, condition; string, stripe
-蜡烛	根	gēn	root, base(d on); foundation
-蠹鱼	只	zhī	only, just, simply
-蠹鱼子	只	zhī	only, just, simply
+蜜蜂	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+蝌蚪	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+蝴蝶	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+蝶	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+螃蟹	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+螺丝刀	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+虫	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+虫子	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+蝇	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+蛴螬	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+蜡烛	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+蠹鱼	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+蠹鱼子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
 血	滴	dī	drip; drop of water
-血管	根	gēn	root, base(d on); foundation
-行动	个	gè	numerary adjunct, piece; single
-行星	颗	kē	grain, kernel
-行李	件	jiàn	numerary adjunct for article; matter
-街	条	tiáo	clause, condition; string, stripe
-街道	条	tiáo	clause, condition; string, stripe
-卫星	颗	kē	grain, kernel
-卫生间	间	jiān	midpoint, space; place, locality
-衣	件	jiàn	numerary adjunct for article; matter
-衣服	件	jiàn	numerary adjunct for article; matter
-衣柜	个	gè	numerary adjunct, piece; single
-表格	张	zhāng	stretch, extend, expand; sheet
-表演	场	chǎng	open space, field, market
-被单	床	chuáng	bed, couch; framework, chassis
-被子	床	chuáng	bed, couch; framework, chassis
-裁判	个	gè	numerary adjunct, piece; single
-裂缝	道	dào	path, road, street; method, way
-裙	条	tiáo	clause, condition; string, stripe
-裙子	条	tiáo	clause, condition; string, stripe
-补充	个	gè	numerary adjunct, piece; single
-装甲车	辆	liàng	numerary adjunct for vehicles
-褥子	床	chuáng	bed, couch; framework, chassis
-裤子	条	tiáo	clause, condition; string, stripe
-裤带	根	gēn	root, base(d on); foundation
-袜子	只	zhī	only, just, simply
-袜裤	条	tiáo	clause, condition; string, stripe
-衬衣	件	jiàn	numerary adjunct for article; matter
-衬衫	件	jiàn	numerary adjunct for article; matter
-西瓜	颗	kē	grain, kernel
-西红柿	只	zhī	only, just, simply
-西装	套	tào	case, cover, wrapper, envelope
-西餐	份	fèn	portion, part; duty
-要求	点	diǎn	dot, speck, spot; point, degree
-见面	次	cì	order, sequence; next
-规定	个	gè	numerary adjunct, piece; single
-规模	个	gè	numerary adjunct, piece; single
-亲事	门	mén	gate, door, entrance, opening
-亲戚	门	mén	gate, door, entrance, opening
-觉	场	cháng	open space, field, market
-观察	个	gè	numerary adjunct, piece; single
-观点	个	gè	numerary adjunct, piece; single
-角	个	gè	numerary adjunct, piece; single
-解放	次	cì	order, sequence; next
-解释	个	gè	numerary adjunct, piece; single
-订书机	台	tái	platform; unit; term of address
-计划	个	gè	numerary adjunct, piece; single
-计算	个	gè	numerary adjunct, piece; single
-计算机	台	tái	platform; unit; term of address
-讨论	个	gè	numerary adjunct, piece; single
-训练	个	gè	numerary adjunct, piece; single
-记忆	个	gè	numerary adjunct, piece; single
-记者	个	gè	numerary adjunct, piece; single
-记录	个	gè	numerary adjunct, piece; single
-访问	次	cì	order, sequence; next
-设备	个	gè	numerary adjunct, piece; single
-设计	个	gè	numerary adjunct, piece; single
-评论	篇	piān	chapter, section, essay, article
-词	组	zǔ	class; section, department
-词	首	shǒu	head; first; leader, chief; a poem
-词典	部	bù	part, division, section
-试卷	份	fèn	portion, part; duty
-试验	次	cì	order, sequence; next
-诗	首	shǒu	head; first; leader, chief; a poem
+血管	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+行动	个	gè	classifier for people or objects in general
+行星	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+行李	件	jiàn	classifier for events, things, clothes etc
+街	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+街道	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+卫星	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+卫生间	间	jiān	classifier for rooms
+衣	件	jiàn	classifier for events, things, clothes etc
+衣服	件	jiàn	classifier for events, things, clothes etc
+衣柜	个	gè	classifier for people or objects in general
+表格	张	zhāng	classifier for flat objects, sheet; classifier for votes
+表演	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+被单	床	chuáng	classifier for beds
+被子	床	chuáng	classifier for beds
+裁判	个	gè	classifier for people or objects in general
+裂缝	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+裙	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+裙子	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+补充	个	gè	classifier for people or objects in general
+装甲车	辆	liàng	classifier for vehicles
+褥子	床	chuáng	classifier for beds
+裤子	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+裤带	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+袜子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+袜裤	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+衬衣	件	jiàn	classifier for events, things, clothes etc
+衬衫	件	jiàn	classifier for events, things, clothes etc
+西瓜	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+西红柿	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+西装	套	tào	classifier for sets, collections
+西餐	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+要求	点	diǎn	classifier for items
+见面	次	cì	classifier for enumerated events: time
+规定	个	gè	classifier for people or objects in general
+规模	个	gè	classifier for people or objects in general
+亲事	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+亲戚	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+觉	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+观察	个	gè	classifier for people or objects in general
+观点	个	gè	classifier for people or objects in general
+角	个	gè	classifier for people or objects in general
+解放	次	cì	classifier for enumerated events: time
+解释	个	gè	classifier for people or objects in general
+订书机	台	tái	classifier for vehicles or machines
+计划	个	gè	classifier for people or objects in general
+计算	个	gè	classifier for people or objects in general
+计算机	台	tái	classifier for vehicles or machines
+讨论	个	gè	classifier for people or objects in general
+训练	个	gè	classifier for people or objects in general
+记忆	个	gè	classifier for people or objects in general
+记者	个	gè	classifier for people or objects in general
+记录	个	gè	classifier for people or objects in general
+访问	次	cì	classifier for enumerated events: time
+设备	个	gè	classifier for people or objects in general
+设计	个	gè	classifier for people or objects in general
+评论	篇	piān	classifier for written items: chapter, article
+词	组	zǔ	classifier for sets, series, groups of people, batteries
+词	首	shǒu	classifier for poems, songs etc
+词典	部	bù	classifier for works of literature, films, machines etc
+试卷	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+试验	次	cì	classifier for enumerated events: time
+诗	首	shǒu	classifier for poems, songs etc
 诗句	行	háng	go; walk; move, travel; circulate
-诗歌	本	běn	root, origin, source; basis
-话	种	zhǒng	seed; race, breed; to plant
-话剧	台	tái	platform; unit; term of address
-语气	个	gè	numerary adjunct, piece; single
-语言	门	mén	gate, door, entrance, opening
-语调	个	gè	numerary adjunct, piece; single
-误会	个	gè	numerary adjunct, piece; single
-说明	个	gè	numerary adjunct, piece; single
-说明书	本	běn	root, origin, source; basis
-课	门	mén	gate, door, entrance, opening
-课	堂	táng	hall; government office
-课堂	间	jiān	midpoint, space; place, locality
-课文	篇	piān	chapter, section, essay, article
-课本	本	běn	root, origin, source; basis
-课程	堂	táng	hall; government office
-调整	个	gè	numerary adjunct, piece; single
-调查	项	xiàng	neck, nape of neck; sum; funds
-调查表	张	zhāng	stretch, extend, expand; sheet
-谈判	个	gè	numerary adjunct, piece; single
-谈话	次	cì	order, sequence; next
-请求	个	gè	numerary adjunct, piece; single
-论文	篇	piān	chapter, section, essay, article
-谜语	条	tiáo	clause, condition; string, stripe
-讲堂	家	jiā	house, home, residence; family
-讲座	个	gè	numerary adjunct, piece; single
-讲话	个	gè	numerary adjunct, piece; single
-证明	个	gè	numerary adjunct, piece; single
-警察	个	gè	numerary adjunct, piece; single
-议论	个	gè	numerary adjunct, piece; single
-议题	项	xiàng	neck, nape of neck; sum; funds
-护士	个	gè	numerary adjunct, piece; single
-护照	本	běn	root, origin, source; basis
-读者	个	gè	numerary adjunct, piece; single
-变化	个	gè	numerary adjunct, piece; single
-豆	棵	kē	numerary adjunct for trees
-豆子	颗	kē	grain, kernel
-象	只	zhī	only, just, simply
-象棋	副	fù	assist; supplement; assistant
-猪	口	kǒu	mouth; open end; entrance, gate
-豹子	头	tóu	head; top; chief, first; boss
-猫	只	zhī	only, just, simply
-财产	笔	bǐ	writing brush; write; stroke
-贡献	个	gè	numerary adjunct, piece; single
-货	个	gè	numerary adjunct, piece; single
-货物	宗	zōng	lineage, ancestry; ancestor, clan
-货轮	艘	sōu	counter for ships, vessels
-责任	个	gè	numerary adjunct, piece; single
-买卖	桩	zhuāng	stake, post; affair, matter
-贷款	笔	bǐ	writing brush; write; stroke
-费用	笔	bǐ	writing brush; write; stroke
-贸易	个	gè	numerary adjunct, piece; single
-贺年片	张	zhāng	stretch, extend, expand; sheet
-资料	份	fèn	portion, part; duty
-宾馆	个	gè	numerary adjunct, piece; single
-质量	个	gè	numerary adjunct, piece; single
-账	本	běn	root, origin, source; basis
-超市	家	jiā	house, home, residence; family
-足球	个	gè	numerary adjunct, piece; single
-距离	个	gè	numerary adjunct, piece; single
-路	条	tiáo	clause, condition; string, stripe
-路线	条	tiáo	clause, condition; string, stripe
-身体	具	jù	tool, implement; draw up, write
-车	辆	liàng	numerary adjunct for vehicles
-车厢	节	jié	knot, node, joint; section
-车祸	场	cháng	open space, field, market
-车站	处	chù	place, locale; department
-车轴	根	gēn	root, base(d on); foundation
-车间	个	gè	numerary adjunct, piece; single
+诗歌	本	běn	classifier for books, periodicals, files etc
+话	种	zhǒng	classifier for types, kinds, sorts
+话剧	台	tái	classifier for vehicles or machines
+语气	个	gè	classifier for people or objects in general
+语言	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+语调	个	gè	classifier for people or objects in general
+误会	个	gè	classifier for people or objects in general
+说明	个	gè	classifier for people or objects in general
+说明书	本	běn	classifier for books, periodicals, files etc
+课	门	mén	classifier for large guns; classifier for lessons, subjects, branches of technology
+课	堂	táng	classifier for sets (or suites) of furniture, classes etc
+课堂	间	jiān	classifier for rooms
+课文	篇	piān	classifier for written items: chapter, article
+课本	本	běn	classifier for books, periodicals, files etc
+课程	堂	táng	classifier for sets (or suites) of furniture, classes etc
+调整	个	gè	classifier for people or objects in general
+调查	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+调查表	张	zhāng	classifier for flat objects, sheet; classifier for votes
+谈判	个	gè	classifier for people or objects in general
+谈话	次	cì	classifier for enumerated events: time
+请求	个	gè	classifier for people or objects in general
+论文	篇	piān	classifier for written items: chapter, article
+谜语	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+讲堂	家	jiā	classifier for families or businesses
+讲座	个	gè	classifier for people or objects in general
+讲话	个	gè	classifier for people or objects in general
+证明	个	gè	classifier for people or objects in general
+警察	个	gè	classifier for people or objects in general
+议论	个	gè	classifier for people or objects in general
+议题	项	xiàng	classifier for principles, items, clauses, tasks, research projects etc
+护士	个	gè	classifier for people or objects in general
+护照	本	běn	classifier for books, periodicals, files etc
+读者	个	gè	classifier for people or objects in general
+变化	个	gè	classifier for people or objects in general
+豆	棵	kē	classifier for trees, cabbages, plants etc
+豆子	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+象	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+象棋	副	fù	classifier for pairs, sets of things & facial expressions
+猪	口	kǒu	classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls
+豹子	头	tóu	classifier for pigs or livestock
+猫	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+财产	笔	bǐ	classifier for sums of money, deals
+贡献	个	gè	classifier for people or objects in general
+货	个	gè	classifier for people or objects in general
+货物	宗	zōng	classifier for batches, items, cases (medical or legal), reservoirs
+货轮	艘	sōu	classifier for ships
+责任	个	gè	classifier for people or objects in general
+买卖	桩	zhuāng	classifier for items
+贷款	笔	bǐ	classifier for sums of money, deals
+费用	笔	bǐ	classifier for sums of money, deals
+贸易	个	gè	classifier for people or objects in general
+贺年片	张	zhāng	classifier for flat objects, sheet; classifier for votes
+资料	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+宾馆	个	gè	classifier for people or objects in general
+质量	个	gè	classifier for people or objects in general
+账	本	běn	classifier for books, periodicals, files etc
+超市	家	jiā	classifier for families or businesses
+足球	个	gè	classifier for people or objects in general
+距离	个	gè	classifier for people or objects in general
+路	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+路线	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+身体	具	jù	classifier for devices, coffins, dead bodies
+车	辆	liàng	classifier for vehicles
+车厢	节	jié	classifier for segments, e.g. lessons, train wagons, biblical verses
+车祸	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+车站	处	chù	classifier for locations or items of damage: spot, point
+车轴	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+车间	个	gè	classifier for people or objects in general
 车队	列	liè	a line; to arrange in order, classify
-轧辊	根	gēn	root, base(d on); foundation
-军	个	gè	numerary adjunct, piece; single
-军舰	艘	sōu	counter for ships, vessels
-军队	支	zhī	disperse, pay; support; branch
-轮子	个	gè	numerary adjunct, piece; single
-轮船	艘	sōu	counter for ships, vessels
-轮回	个	gè	numerary adjunct, piece; single
-转变	个	gè	numerary adjunct, piece; single
-轿车	部	bù	part, division, section
-轰炸	阵	zhèn	column, row or file of troops
-办公室	间	jiān	midpoint, space; place, locality
-办公楼	座	zuò	seat; stand, base
-办法	条	tiáo	clause, condition; string, stripe
-辞典	本	běn	root, origin, source; basis
-辫子	根	gēn	root, base(d on); foundation
-辩论	场	chǎng	open space, field, market
-农村	个	gè	numerary adjunct, piece; single
-农民	个	gè	numerary adjunct, piece; single
-通知	个	gè	numerary adjunct, piece; single
-通讯	个	gè	numerary adjunct, piece; single
-速度	个	gè	numerary adjunct, piece; single
-连环计	条	tiáo	clause, condition; string, stripe
+轧辊	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+军	个	gè	classifier for people or objects in general
+军舰	艘	sōu	classifier for ships
+军队	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+轮子	个	gè	classifier for people or objects in general
+轮船	艘	sōu	classifier for ships
+轮回	个	gè	classifier for people or objects in general
+转变	个	gè	classifier for people or objects in general
+轿车	部	bù	classifier for works of literature, films, machines etc
+轰炸	阵	zhèn	classifier for events or states of short duration
+办公室	间	jiān	classifier for rooms
+办公楼	座	zuò	classifier for buildings, mountains and similar immovable objects
+办法	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+辞典	本	běn	classifier for books, periodicals, files etc
+辫子	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+辩论	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+农村	个	gè	classifier for people or objects in general
+农民	个	gè	classifier for people or objects in general
+通知	个	gè	classifier for people or objects in general
+通讯	个	gè	classifier for people or objects in general
+速度	个	gè	classifier for people or objects in general
+连环计	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
 连裤袜	双	shuāng	set of two, pair, couple; both
-进化	个	gè	numerary adjunct, piece; single
-进步	个	gè	numerary adjunct, piece; single
-游戏	场	chǎng	open space, field, market
-游艇	只	zhī	only, just, simply
-游览	次	cì	order, sequence; next
-运动	场	chǎng	open space, field, market
-运动员	名	míng	name, rank, title, position
-运动会	个	gè	numerary adjunct, piece; single
-运动衫	件	jiàn	numerary adjunct for article; matter
-运输	个	gè	numerary adjunct, piece; single
-过程	个	gè	numerary adjunct, piece; single
-道	条	tiáo	clause, condition; string, stripe
-道德	种	zhǒng	seed; race, breed; to plant
-道理	个	gè	numerary adjunct, piece; single
-道路	条	tiáo	clause, condition; string, stripe
-遮羞布	块	kuài	piece, lump; dollar
-选票	张	zhāng	stretch, extend, expand; sheet
-选举	次	cì	order, sequence; next
-遗产	笔	bǐ	writing brush; write; stroke
-避风港	座	zuò	seat; stand, base
-邀请	个	gè	numerary adjunct, piece; single
-邀请函	封	fēng	letter, envelope; feudal
-边	个	gè	numerary adjunct, piece; single
-郊区	个	gè	numerary adjunct, piece; single
-部分	个	gè	numerary adjunct, piece; single
-部长	个	gè	numerary adjunct, piece; single
-部门	个	gè	numerary adjunct, piece; single
-部队	个	gè	numerary adjunct, piece; single
-邮局	家	jiā	house, home, residence; family
-邮票	枚	méi	stalk of shrub, trunk of tree
-乡下	个	gè	numerary adjunct, piece; single
-邻居	个	gè	numerary adjunct, piece; single
-酒	杯	bēi	cup, glass
-酒吧	家	jiā	house, home, residence; family
-医务室	个	gè	numerary adjunct, piece; single
-医务所	家	jiā	house, home, residence; family
-医生	个	gè	numerary adjunct, piece; single
-医院	所	suǒ	place, location; numerary adjunct
-重复	个	gè	numerary adjunct, piece; single
-重量	个	gè	numerary adjunct, piece; single
-野猪	头	tóu	head; top; chief, first; boss
-金属	种	zhǒng	seed; race, breed; to plant
-金牌	枚	méi	stalk of shrub, trunk of tree
-金镏子	条	tiáo	clause, condition; string, stripe
-针	根	gēn	root, base(d on); foundation
-钓竿	根	gēn	root, base(d on); foundation
-钓鱼杆	根	gēn	root, base(d on); foundation
-钞票	张	zhāng	stretch, extend, expand; sheet
-铃	只	zhī	only, just, simply
-铃铛	只	zhī	only, just, simply
-钳子	把	bǎ	hold, take; guard; regard as
-铅笔	支	zhī	disperse, pay; support; branch
-铅笔刀	把	bǎ	hold, take; guard; regard as
-铅箔	张	zhāng	stretch, extend, expand; sheet
-银牌	枚	méi	stalk of shrub, trunk of tree
-银行	家	jiā	house, home, residence; family
-铜	块	kuài	piece, lump; dollar
-铜像	座	zuò	seat; stand, base
-铜牌	枚	méi	stalk of shrub, trunk of tree
-锄头	把	bǎ	hold, take; guard; regard as
-锯子	把	bǎ	hold, take; guard; regard as
-钢琴	架	jià	rack, stand, prop; prop up
-钢笔	支	zhī	disperse, pay; support; branch
-录像	盘	pán	tray, plate, dish; examine
-录像带	盘	pán	tray, plate, dish; examine
-录影带	盘	pán	tray, plate, dish; examine
-录影机	台	tái	platform; unit; term of address
-录音	个	gè	numerary adjunct, piece; single
-录音带	盘	pán	tray, plate, dish; examine
-录音机	台	tái	platform; unit; term of address
-锥子	把	bǎ	hold, take; guard; regard as
-锤子	把	bǎ	hold, take; guard; regard as
-钱	笔	bǐ	writing brush; write; stroke
-锡箔纸	张	zhāng	stretch, extend, expand; sheet
-错误	个	gè	numerary adjunct, piece; single
-锅	口	kǒu	mouth; open end; entrance, gate
-锁	把	bǎ	hold, take; guard; regard as
-镏银器	件	jiàn	numerary adjunct for article; matter
-镍箔	张	zhāng	stretch, extend, expand; sheet
-链条	根	gēn	root, base(d on); foundation
-铲子	把	bǎ	hold, take; guard; regard as
-铲车	台	tái	platform; unit; term of address
-镜子	面	miàn	face; surface; plane; side, dimension
-镜架	副	fù	assist; supplement; assistant
-钟	架	jià	rack, stand, prop; prop up
-钟头	个	gè	numerary adjunct, piece; single
-镯子	只	zhī	only, just, simply
-铁丝	根	gēn	root, base(d on); foundation
-铁丝网	道	dào	path, road, street; method, way
-铁路	条	tiáo	clause, condition; string, stripe
-铁轨	根	gēn	root, base(d on); foundation
-铁锨	把	bǎ	hold, take; guard; regard as
-钥匙	把	bǎ	hold, take; guard; regard as
-锣	面	miàn	face; surface; plane; side, dimension
-钻戒	只	zhī	only, just, simply
-钻石	颗	kē	grain, kernel
-长凳	张	zhāng	stretch, extend, expand; sheet
-长官	位	wèi	throne; position, post; rank, status; seat
-长枪	支	zhī	disperse, pay; support; branch
-长矛	把	bǎ	hold, take; guard; regard as
+进化	个	gè	classifier for people or objects in general
+进步	个	gè	classifier for people or objects in general
+游戏	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+游艇	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+游览	次	cì	classifier for enumerated events: time
+运动	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+运动员	名	míng	classifier for people
+运动会	个	gè	classifier for people or objects in general
+运动衫	件	jiàn	classifier for events, things, clothes etc
+运输	个	gè	classifier for people or objects in general
+过程	个	gè	classifier for people or objects in general
+道	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+道德	种	zhǒng	classifier for types, kinds, sorts
+道理	个	gè	classifier for people or objects in general
+道路	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+遮羞布	块	kuài	classifier for pieces of cloth, cake, soap etc
+选票	张	zhāng	classifier for flat objects, sheet; classifier for votes
+选举	次	cì	classifier for enumerated events: time
+遗产	笔	bǐ	classifier for sums of money, deals
+避风港	座	zuò	classifier for buildings, mountains and similar immovable objects
+邀请	个	gè	classifier for people or objects in general
+邀请函	封	fēng	classifier for sealed objects, esp. letters
+边	个	gè	classifier for people or objects in general
+郊区	个	gè	classifier for people or objects in general
+部分	个	gè	classifier for people or objects in general
+部长	个	gè	classifier for people or objects in general
+部门	个	gè	classifier for people or objects in general
+部队	个	gè	classifier for people or objects in general
+邮局	家	jiā	classifier for families or businesses
+邮票	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+乡下	个	gè	classifier for people or objects in general
+邻居	个	gè	classifier for people or objects in general
+酒	杯	bēi	classifier for certain containers of liquids: glass, cup; classifier for certain containers of liquids: glass, cup
+酒吧	家	jiā	classifier for families or businesses
+医务室	个	gè	classifier for people or objects in general
+医务所	家	jiā	classifier for families or businesses
+医生	个	gè	classifier for people or objects in general
+医院	所	suǒ	classifier for houses, small buildings, institutions etc
+重复	个	gè	classifier for people or objects in general
+重量	个	gè	classifier for people or objects in general
+野猪	头	tóu	classifier for pigs or livestock
+金属	种	zhǒng	classifier for types, kinds, sorts
+金牌	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+金镏子	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+针	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+钓竿	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+钓鱼杆	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+钞票	张	zhāng	classifier for flat objects, sheet; classifier for votes
+铃	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+铃铛	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+钳子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+铅笔	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+铅笔刀	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+铅箔	张	zhāng	classifier for flat objects, sheet; classifier for votes
+银牌	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+银行	家	jiā	classifier for families or businesses
+铜	块	kuài	classifier for pieces of cloth, cake, soap etc
+铜像	座	zuò	classifier for buildings, mountains and similar immovable objects
+铜牌	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+锄头	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+锯子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+钢琴	架	jià	classifier for planes, large vehicles, radios etc
+钢笔	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+录像	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+录像带	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+录影带	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+录影机	台	tái	classifier for vehicles or machines
+录音	个	gè	classifier for people or objects in general
+录音带	盘	pán	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+录音机	台	tái	classifier for vehicles or machines
+锥子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+锤子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+钱	笔	bǐ	classifier for sums of money, deals
+锡箔纸	张	zhāng	classifier for flat objects, sheet; classifier for votes
+错误	个	gè	classifier for people or objects in general
+锅	口	kǒu	classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls
+锁	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+镏银器	件	jiàn	classifier for events, things, clothes etc
+镍箔	张	zhāng	classifier for flat objects, sheet; classifier for votes
+链条	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+铲子	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+铲车	台	tái	classifier for vehicles or machines
+镜子	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+镜架	副	fù	classifier for pairs, sets of things & facial expressions
+钟	架	jià	classifier for planes, large vehicles, radios etc
+钟头	个	gè	classifier for people or objects in general
+镯子	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+铁丝	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+铁丝网	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+铁路	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+铁轨	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+铁锨	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+钥匙	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+锣	面	miàn	classifier for flat surfaces such as drums, mirrors, flags etc
+钻戒	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+钻石	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+长凳	张	zhāng	classifier for flat objects, sheet; classifier for votes
+长官	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+长枪	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+长矛	把	bǎ	classifier for objects with handle; classifier for small objects: handful
 长筒袜	双	shuāng	set of two, pair, couple; both
-长袍	件	jiàn	numerary adjunct for article; matter
-长颈鹿	只	zhī	only, just, simply
-门	扇	shàn	fan; door panel
-门	个	gè	numerary adjunct, piece; single
-门口	个	gè	numerary adjunct, piece; single
-门面	间	jiān	midpoint, space; place, locality
-闪电	道	dào	path, road, street; method, way
-开始	个	gè	numerary adjunct, piece; single
-开支	笔	bǐ	writing brush; write; stroke
-闲话	段	duàn	section, piece, division
-闲话	段	duàn	section, piece, division
-阅览室	间	jiān	midpoint, space; place, locality
-关系	个	gè	numerary adjunct, piece; single
-关卡	个	gè	numerary adjunct, piece; single
-关键	个	gè	numerary adjunct, piece; single
-防火墙	堵	dǔ	wall; stop, prevent; stop up
-防线	道	dào	path, road, street; method, way
-阿姨	个	gè	numerary adjunct, piece; single
-限制	个	gè	numerary adjunct, piece; single
-院	个	gè	numerary adjunct, piece; single
-院子	个	gè	numerary adjunct, piece; single
-院长	个	gè	numerary adjunct, piece; single
+长袍	件	jiàn	classifier for events, things, clothes etc
+长颈鹿	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+门	扇	shàn	classifier for doors, windows etc
+门	个	gè	classifier for people or objects in general
+门口	个	gè	classifier for people or objects in general
+门面	间	jiān	classifier for rooms
+闪电	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+开始	个	gè	classifier for people or objects in general
+开支	笔	bǐ	classifier for sums of money, deals
+闲话	段	duàn	classifier for stories, periods of time, lengths of thread etc
+闲话	段	duàn	classifier for stories, periods of time, lengths of thread etc
+阅览室	间	jiān	classifier for rooms
+关系	个	gè	classifier for people or objects in general
+关卡	个	gè	classifier for people or objects in general
+关键	个	gè	classifier for people or objects in general
+防火墙	堵	dǔ	classifier for walls
+防线	道	dào	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+阿姨	个	gè	classifier for people or objects in general
+限制	个	gè	classifier for people or objects in general
+院	个	gè	classifier for people or objects in general
+院子	个	gè	classifier for people or objects in general
+院长	个	gè	classifier for people or objects in general
 阳光	线	xiàn	line, thread, wire; clue
-队	个	gè	numerary adjunct, piece; single
-队伍	个	gè	numerary adjunct, piece; single
-队长	个	gè	numerary adjunct, piece; single
-阶段	个	gè	numerary adjunct, piece; single
-阶级	个	gè	numerary adjunct, piece; single
-陨石	块	kuài	piece, lump; dollar
-隐形眼镜	只	zhī	only, just, simply
-集会	个	gè	numerary adjunct, piece; single
-集邮册	本	běn	root, origin, source; basis
-集邮簿	本	běn	root, origin, source; basis
-集体	个	gè	numerary adjunct, piece; single
-雕像	尊	zūn	respect, revere, venerate; honor
-双打	场	chǎng	open space, field, market
-双胞胎	对	duì	correct, right; facing, opposed
-杂技	场	chǎng	open space, field, market
-杂志	本	běn	root, origin, source; basis
-鸡	只	zhī	only, just, simply
-鸡毛	根	gēn	root, base(d on); foundation
-鸡腿	根	gēn	root, base(d on); foundation
-鸡蛋	个	gè	numerary adjunct, piece; single
-雨	阵	zhèn	column, row or file of troops
-雨伞	把	bǎ	hold, take; guard; regard as
-雨衣	件	jiàn	numerary adjunct for article; matter
+队	个	gè	classifier for people or objects in general
+队伍	个	gè	classifier for people or objects in general
+队长	个	gè	classifier for people or objects in general
+阶段	个	gè	classifier for people or objects in general
+阶级	个	gè	classifier for people or objects in general
+陨石	块	kuài	classifier for pieces of cloth, cake, soap etc
+隐形眼镜	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+集会	个	gè	classifier for people or objects in general
+集邮册	本	běn	classifier for books, periodicals, files etc
+集邮簿	本	běn	classifier for books, periodicals, files etc
+集体	个	gè	classifier for people or objects in general
+雕像	尊	zūn	classifier for cannons and statues
+双打	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+双胞胎	对	duì	classifier: couple
+杂技	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+杂志	本	běn	classifier for books, periodicals, files etc
+鸡	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+鸡毛	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+鸡腿	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+鸡蛋	个	gè	classifier for people or objects in general
+雨	阵	zhèn	classifier for events or states of short duration
+雨伞	把	bǎ	classifier for objects with handle; classifier for small objects: handful
+雨衣	件	jiàn	classifier for events, things, clothes etc
 雨靴	双	shuāng	set of two, pair, couple; both
-雪	场	cháng	open space, field, market
+雪	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
 雪鞋	双	shuāng	set of two, pair, couple; both
-云	朵	duǒ	cluster of flowers; earlobe
-云彩	朵	duǒ	cluster of flowers; earlobe
-电冰箱	个	gè	numerary adjunct, piece; single
-电报	封	fēng	letter, envelope; feudal
-电子邮件	封	fēng	letter, envelope; feudal
-电影	部	bù	part, division, section
-电影节	届	jiè	numerary adjunct for time, term
-电影院	家	jiā	house, home, residence; family
-电梯	台	tái	platform; unit; term of address
-电池	节	jié	knot, node, joint; section
-电灯	盏	zhǎn	small cup or container
-电线	根	gēn	root, base(d on); foundation
-电线杆	根	gēn	root, base(d on); foundation
-电线杆	根	gēn	root, base(d on); foundation
-电脑	台	tái	platform; unit; term of address
-电台	个	gè	numerary adjunct, piece; single
-电视	台	tái	platform; unit; term of address
-电视剧	部	bù	part, division, section
-电视机	台	tái	platform; unit; term of address
-电视台	个	gè	numerary adjunct, piece; single
-电话	部	bù	part, division, section
-电话	通	tōng	pass through, common, communicate
-电车	辆	liàng	numerary adjunct for vehicles
-电风扇	架	jià	rack, stand, prop; prop up
-雾	场	cháng	open space, field, market
-青史	笔	bǐ	writing brush; write; stroke
-青蛙	只	zhī	only, just, simply
-面料	块	kuài	piece, lump; dollar
-面貌	个	gè	numerary adjunct, piece; single
-革命	次	cì	order, sequence; next
+云	朵	duǒ	classifier for flowers, clouds etc
+云彩	朵	duǒ	classifier for flowers, clouds etc
+电冰箱	个	gè	classifier for people or objects in general
+电报	封	fēng	classifier for sealed objects, esp. letters
+电子邮件	封	fēng	classifier for sealed objects, esp. letters
+电影	部	bù	classifier for works of literature, films, machines etc
+电影节	届	jiè	classifier for events, meetings, elections, sporting fixtures, years (of graduation)
+电影院	家	jiā	classifier for families or businesses
+电梯	台	tái	classifier for vehicles or machines
+电池	节	jié	classifier for segments, e.g. lessons, train wagons, biblical verses
+电灯	盏	zhǎn	classifier for lamps
+电线	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+电线杆	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+电线杆	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+电脑	台	tái	classifier for vehicles or machines
+电台	个	gè	classifier for people or objects in general
+电视	台	tái	classifier for vehicles or machines
+电视剧	部	bù	classifier for works of literature, films, machines etc
+电视机	台	tái	classifier for vehicles or machines
+电视台	个	gè	classifier for people or objects in general
+电话	部	bù	classifier for works of literature, films, machines etc
+电话	通	tōng	classifier for letters, telegrams, phone calls etc; classifier for an activity, taken in its entirety (tirade of abuse, stint of music playing, bout of drinking etc)
+电车	辆	liàng	classifier for vehicles
+电风扇	架	jià	classifier for planes, large vehicles, radios etc
+雾	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+青史	笔	bǐ	classifier for sums of money, deals
+青蛙	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+面料	块	kuài	classifier for pieces of cloth, cake, soap etc
+面貌	个	gè	classifier for people or objects in general
+革命	次	cì	classifier for enumerated events: time
 鞋	双	shuāng	set of two, pair, couple; both
-鞋带	根	gēn	root, base(d on); foundation
-鞭子	根	gēn	root, base(d on); foundation
-鞭炮	枚	méi	stalk of shrub, trunk of tree
-音乐	张	zhāng	stretch, extend, expand; sheet
-音乐会	场	chǎng	open space, field, market
-响应	个	gè	numerary adjunct, piece; single
-响雷	个	gè	numerary adjunct, piece; single
-项目	个	gè	numerary adjunct, piece; single
-项链	条	tiáo	clause, condition; string, stripe
-领导	位	wèi	throne; position, post; rank, status; seat
-领带	条	tiáo	clause, condition; string, stripe
-领袖	个	gè	numerary adjunct, piece; single
-头	个	gè	numerary adjunct, piece; single
-题	个	gè	numerary adjunct, piece; single
-题目	个	gè	numerary adjunct, piece; single
-顾客	位	wèi	throne; position, post; rank, status; seat
-显微镜	台	tái	platform; unit; term of address
-风	阵	zhèn	column, row or file of troops
-风俗	个	gè	numerary adjunct, piece; single
-风景	个	gè	numerary adjunct, piece; single
-风波	场	cháng	open space, field, market
-风衣	件	jiàn	numerary adjunct for article; matter
-飞机	架	jià	rack, stand, prop; prop up
-飞机场	处	chù	place, locale; department
-飞机票	张	zhāng	stretch, extend, expand; sheet
-食品	种	zhǒng	seed; race, breed; to plant
-食堂	个	gè	numerary adjunct, piece; single
-食火鸡	只	zhī	only, just, simply
-食物	种	zhǒng	seed; race, breed; to plant
-食谱	份	fèn	portion, part; duty
+鞋带	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+鞭子	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+鞭炮	枚	méi	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+音乐	张	zhāng	classifier for flat objects, sheet; classifier for votes
+音乐会	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+响应	个	gè	classifier for people or objects in general
+响雷	个	gè	classifier for people or objects in general
+项目	个	gè	classifier for people or objects in general
+项链	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+领导	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+领带	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+领袖	个	gè	classifier for people or objects in general
+头	个	gè	classifier for people or objects in general
+题	个	gè	classifier for people or objects in general
+题目	个	gè	classifier for people or objects in general
+顾客	位	wèi	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+显微镜	台	tái	classifier for vehicles or machines
+风	阵	zhèn	classifier for events or states of short duration
+风俗	个	gè	classifier for people or objects in general
+风景	个	gè	classifier for people or objects in general
+风波	场	cháng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+风衣	件	jiàn	classifier for events, things, clothes etc
+飞机	架	jià	classifier for planes, large vehicles, radios etc
+飞机场	处	chù	classifier for locations or items of damage: spot, point
+飞机票	张	zhāng	classifier for flat objects, sheet; classifier for votes
+食品	种	zhǒng	classifier for types, kinds, sorts
+食堂	个	gè	classifier for people or objects in general
+食火鸡	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+食物	种	zhǒng	classifier for types, kinds, sorts
+食谱	份	fèn	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
 饭	碗	wǎn	bowl, small dish
-饭店	家	jiā	house, home, residence; family
-饭馆	家	jiā	house, home, residence; family
-饺子	个	gè	numerary adjunct, piece; single
-饼	张	zhāng	stretch, extend, expand; sheet
-饼干	片	piàn	slice, splinter, strip; rad. 91
-餐巾	张	zhāng	stretch, extend, expand; sheet
-餐厅	间	jiān	midpoint, space; place, locality
-餐馆	家	jiā	house, home, residence; family
-馆	家	jiā	house, home, residence; family
-馒头	个	gè	numerary adjunct, piece; single
-首都	个	gè	numerary adjunct, piece; single
-香	根	gēn	root, base(d on); foundation
-香味	股	gǔ	thighs, haunches, rump; share
-香槟酒	瓶	píng	jug, pitcher, vase, jar, bottle
-香烟	支	zhī	disperse, pay; support; branch
-香皂	块	kuài	piece, lump; dollar
-香肠	根	gēn	root, base(d on); foundation
-香蕉	枝	zhī	branches, limbs; branch off
-马	匹	pǐ	bolt of cloth; counter for horses
-马路	条	tiáo	clause, condition; string, stripe
-骆驼	峰	fēng	peak, summit; hump of camel
-骗局	场	chǎng	open space, field, market
-骚动	阵	zhèn	column, row or file of troops
-骡	匹	pǐ	bolt of cloth; counter for horses
-骡子	匹	pǐ	bolt of cloth; counter for horses
-驴	头	tóu	head; top; chief, first; boss
-骨头	根	gēn	root, base(d on); foundation
-体恤衫	件	jiàn	numerary adjunct for article; matter
-体积	个	gè	numerary adjunct, piece; single
-体系	个	gè	numerary adjunct, piece; single
-体育场	个	gè	numerary adjunct, piece; single
-体育馆	个	gè	numerary adjunct, piece; single
-高原	片	piàn	slice, splinter, strip; rad. 91
-高塔	座	zuò	seat; stand, base
-高射机枪	架	jià	rack, stand, prop; prop up
-高度	个	gè	numerary adjunct, piece; single
-高楼	座	zuò	seat; stand, base
-高丽菜	颗	kē	grain, kernel
-发廊	家	jiā	house, home, residence; family
-胡子	撮	zuǒ	little bit, small amount, pinch
-胡须	根	gēn	root, base(d on); foundation
-闹剧	场	chǎng	open space, field, market
-鬼话	篇	piān	chapter, section, essay, article
-鱼	条	tiáo	clause, condition; string, stripe
-鲜花	朵	duǒ	cluster of flowers; earlobe
-鲸鱼	条	tiáo	clause, condition; string, stripe
-鸟	只	zhī	only, just, simply
-鸭	只	zhī	only, just, simply
-鹅	只	zhī	only, just, simply
-盐	粒	lì	grain; small particle
-麦子	株	zhū	numerary adjunct for trees; root
-面包	片	piàn	slice, splinter, strip; rad. 91
-面包房	家	jiā	house, home, residence; family
-麻	缕	lǚ	thread; detailed, precise
-麻将	副	fù	assist; supplement; assistant
+饭店	家	jiā	classifier for families or businesses
+饭馆	家	jiā	classifier for families or businesses
+饺子	个	gè	classifier for people or objects in general
+饼	张	zhāng	classifier for flat objects, sheet; classifier for votes
+饼干	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+餐巾	张	zhāng	classifier for flat objects, sheet; classifier for votes
+餐厅	间	jiān	classifier for rooms
+餐馆	家	jiā	classifier for families or businesses
+馆	家	jiā	classifier for families or businesses
+馒头	个	gè	classifier for people or objects in general
+首都	个	gè	classifier for people or objects in general
+香	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+香味	股	gǔ	classifier for smells, electric currents, spirals etc
+香槟酒	瓶	píng	classifier for wine and liquids
+香烟	支	zhī	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+香皂	块	kuài	classifier for pieces of cloth, cake, soap etc
+香肠	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+香蕉	枝	zhī	classifier for sticks, rods, pencils etc
+马	匹	pǐ	classifier for horses, mules etc; classifier for cloth: bolt; classifier for cloth: bolt
+马路	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+骆驼	峰	fēng	classifier for camels
+骗局	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+骚动	阵	zhèn	classifier for events or states of short duration
+骡	匹	pǐ	classifier for horses, mules etc; classifier for cloth: bolt; classifier for cloth: bolt
+骡子	匹	pǐ	classifier for horses, mules etc; classifier for cloth: bolt; classifier for cloth: bolt
+驴	头	tóu	classifier for pigs or livestock
+骨头	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+体恤衫	件	jiàn	classifier for events, things, clothes etc
+体积	个	gè	classifier for people or objects in general
+体系	个	gè	classifier for people or objects in general
+体育场	个	gè	classifier for people or objects in general
+体育馆	个	gè	classifier for people or objects in general
+高原	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+高塔	座	zuò	classifier for buildings, mountains and similar immovable objects
+高射机枪	架	jià	classifier for planes, large vehicles, radios etc
+高度	个	gè	classifier for people or objects in general
+高楼	座	zuò	classifier for buildings, mountains and similar immovable objects
+高丽菜	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+发廊	家	jiā	classifier for families or businesses
+胡子	撮	zuǒ	classifier: pinch; classifier for hair or grass: tuft
+胡须	根	gēn	classifier for long slender objects, e.g. cigarettes, guitar strings
+闹剧	场	chǎng	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+鬼话	篇	piān	classifier for written items: chapter, article
+鱼	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+鲜花	朵	duǒ	classifier for flowers, clouds etc
+鲸鱼	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+鸟	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+鸭	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+鹅	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+盐	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+麦子	株	zhū	classifier for trees or plants
+面包	片	piàn	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+面包房	家	jiā	classifier for families or businesses
+麻	缕	lǚ	classifier for wisps (of smoke, mist or vapor), strands, locks (of hair)
+麻将	副	fù	classifier for pairs, sets of things & facial expressions
 黄油	盒	hé	small box or case; casket
-黄瓜	条	tiáo	clause, condition; string, stripe
-黄鳝	个	gè	numerary adjunct, piece; single
-黑板	块	kuài	piece, lump; dollar
-党	个	gè	numerary adjunct, piece; single
-党员	名	míng	name, rank, title, position
-鼓	通	tòng	pass through, common, communicate
-鼓舞	个	gè	numerary adjunct, piece; single
-鼠	只	zhī	only, just, simply
-鼻子	个	gè	numerary adjunct, piece; single
-鼻孔	只	zhī	only, just, simply
-齿	颗	kē	grain, kernel
-龙	条	tiáo	clause, condition; string, stripe
-龙眼	粒	lì	grain; small particle
+黄瓜	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+黄鳝	个	gè	classifier for people or objects in general
+黑板	块	kuài	classifier for pieces of cloth, cake, soap etc
+党	个	gè	classifier for people or objects in general
+党员	名	míng	classifier for people
+鼓	通	tòng	classifier for letters, telegrams, phone calls etc; classifier for an activity, taken in its entirety (tirade of abuse, stint of music playing, bout of drinking etc)
+鼓舞	个	gè	classifier for people or objects in general
+鼠	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+鼻子	个	gè	classifier for people or objects in general
+鼻孔	只	zhī	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+齿	颗	kē	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+龙	条	tiáo	classifier for long thin things (ribbon, river, road, trousers etc)
+龙眼	粒	lì	classifier for small round things (peas, bullets, peanuts, pills, grains etc)

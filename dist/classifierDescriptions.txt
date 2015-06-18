@@ -1,0 +1,194 @@
+刀	classifier for sets of one hundred sheets (of paper)
+挂	classifier for sets or clusters of objects
+沓	classifier for sheets of papers etc: pile, pad
+领	classifier for clothes, mats, screens etc
+颗	classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc
+丘	classifier for fields
+脚	classifier for kicks
+枝	classifier for sticks, rods, pencils etc
+处	classifier for locations or items of damage: spot, point
+管	classifier for tube-shaped objects
+造	classifier for crops
+座	classifier for buildings, mountains and similar immovable objects
+身	classifier for sets of clothes: suit, twinset
+听	classifier for canned beverages
+段	classifier for stories, periods of time, lengths of thread etc
+方	classifier for square things
+阵	classifier for events or states of short duration
+挺	classifier for machine guns
+款	classifier for versions or models (of a product)
+所	classifier for houses, small buildings, institutions etc
+桄	classifier for threads and strings
+杆	classifier for long objects such as guns
+架	classifier for planes, large vehicles, radios etc
+种	classifier for types, kinds, sorts
+量词	classifier (in Chinese grammar)
+盏	classifier for lamps
+发	classifier for gunshots (rounds)
+泓	classifier for a body of clear water
+艘	classifier for ships
+握	classifier: a handful
+瓣	classifier for pieces, segments etc
+面	classifier for flat surfaces such as drums, mirrors, flags etc
+句	classifier for phrases or lines of verse
+番	classifier for occurrences (of an action or deed)
+班	classifier for groups
+轮	classifier for big round objects: disk, or recurring events: round, turn
+爿	classifier for strips of land or bamboo, shops, factories etc
+对	classifier: couple
+任	classifier for the number of terms served in office, post, or rank
+褔	classifier for items of clothing (old)
+簇	classifier for bunched objects
+辆	classifier for vehicles
+栋	classifier for houses or buildings
+人次	classifier for number of people participating
+排	classifier for lines, rows etc
+缕	classifier for wisps (of smoke, mist or vapor), strands, locks (of hair)
+樘	classifier for doors or windows
+伙	classifier for groups of people
+折	classifier for theatrical scenes
+枚	classifier for coins, rings, badges, pearls, sporting medals, rockets, satellites etc
+次	classifier for enumerated events: time
+片	classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc
+帧	classifier for paintings etc
+枪	classifier for rifle shots
+锭	classifier for: gold and silver ingots, ink sticks
+朵	classifier for flowers, clouds etc
+样	classifier: kind, type
+家	classifier for families or businesses
+匹	classifier for horses, mules etc; classifier for cloth: bolt; classifier for cloth: bolt
+纸	classifier for documents, letter etc
+刻	classifier for short time intervals
+房	classifier for family members (or concubines)
+组	classifier for sets, series, groups of people, batteries
+扇	classifier for doors, windows etc
+遍	classifier for actions: one time
+手	classifier for skill
+顶	classifier for headwear, hats, veils etc
+位	classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
+道	classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process
+付	classifier for pairs or sets of things
+床	classifier for beds
+条	classifier for long thin things (ribbon, river, road, trousers etc)
+档	classifier for cross-pieces
+令	classifier for a ream of paper
+拨	classifier: group, batch
+火	classifier for military units (old)
+只	classifier for birds and certain animals, one of a pair, some utensils, vessels etc
+蓬	classifier for luxuriant plants, smoke, ashes, campfires: clump, puff
+副	classifier for pairs, sets of things & facial expressions
+场	classifier for events and happenings: spell, episode, bout; classifier for sporting or recreational activities; classifier for number of exams
+味	classifier for drugs (in TCM)
+埲	classifier for walls (Cantonese)
+头	classifier for pigs or livestock
+叶	classifier for small boats
+套	classifier for sets, collections
+出	classifier for dramas, plays, operas etc
+顿	classifier for meals, beatings, scoldings etc: time, bout, spell, meal
+岁	classifier for years (of age)
+码	classifier for length or distance (yard), happenings etc
+堂	classifier for sets (or suites) of furniture, classes etc
+坨儿	classifier for lumps of soft things (colloquial)
+圈	classifier for loops, orbits, laps of race etc
+尊	classifier for cannons and statues
+骑	classifier for saddle-horses
+餐	classifier for meals
+笔	classifier for sums of money, deals
+宗	classifier for batches, items, cases (medical or legal), reservoirs
+盘	classifier for food: dish, helping; classifier for coils of wire; classifier for games of chess
+通	classifier for letters, telegrams, phone calls etc; classifier for an activity, taken in its entirety (tirade of abuse, stint of music playing, bout of drinking etc)
+窝	classifier for litters and broods
+趟	classifier for times, round trips or rows
+股	classifier for smells, electric currents, spirals etc
+张	classifier for flat objects, sheet; classifier for votes
+瓶	classifier for wine and liquids
+墩	classifier for clusters of plants; classifier for rounds in a card game: trick
+个	classifier for people or objects in general
+袭	classifier for suits (esp. of funeral robes)
+本	classifier for books, periodicals, files etc
+环	classifier for scores in archery etc
+串	classifier for rows or strings
+贴	classifier for sticking plaster: strip
+抹	classifier for wisps of cloud, light-beams etc
+缸	classifier for loads of laundry
+绞	classifier for skeins of yarn
+眼	classifier for big hollow things (wells, stoves, pots etc)
+宿	classifier for nights
+尾	classifier for fish
+层	classifier for layers
+担	classifier for loads carried on a shoulder pole
+篇	classifier for written items: chapter, article
+届	classifier for events, meetings, elections, sporting fixtures, years (of graduation)
+响	classifier for noises
+亩	classifier for fields
+点	classifier for items
+孔	classifier for cave dwellings
+蔸	classifier for pieces and clumps
+毛	classifier for Chinese fractional monetary unit ( = 角[jiao3] , = one-tenth of a yuan or 10 fen 分[fen1])
+首	classifier for poems, songs etc
+卷	classifier for small rolled things (wad of paper money, movie reel etc); classifier for books, paintings: volume, scroll
+泡	classifier for urine or feces
+档子	classifier for affairs, events etc
+口	classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls
+幢	classifier for buildings
+滩	classifier for liquids: pool, puddle
+票	classifier for groups, batches, business transactions
+汪	classifier for liquids: pool, puddle
+转	classifier for revolutions (per minute etc): revs, rpm; classifier for repeated actions
+重	classifier: layer
+棵	classifier for trees, cabbages, plants etc
+轴	classifier for calligraphy rolls etc
+号	classifier used to indicate number of people
+注	classifier for sums of money
+份	classifier for gifts, newspaper, magazine, papers, reports, contracts etc
+门子	classifier for relatives, marriages etc
+封	classifier for sealed objects, esp. letters
+榀	classifier for roof beams and trusses
+节	classifier for segments, e.g. lessons, train wagons, biblical verses
+局	classifier for games: match, set, round etc
+把	classifier for objects with handle; classifier for small objects: handful
+名	classifier for people
+册	classifier for books
+粒	classifier for small round things (peas, bullets, peanuts, pills, grains etc)
+梭子	classifier for bullet clips and bursts of gunfire
+则	classifier for written items (such as an official statement)
+级	classifier: step, level
+期	classifier for issues of a periodical, courses of study
+门	classifier for large guns; classifier for lessons, subjects, branches of technology
+度	classifier for events and occurrences
+席	classifier for banquets, conversations etc
+支	classifier for rods such as pens and guns, for army divisions and for songs or compositions
+撮	classifier: pinch; classifier for hair or grass: tuft
+记	classifier for blows, kicks, shots
+堵	classifier for walls
+根	classifier for long slender objects, e.g. cigarettes, guitar strings
+画	classifier for paintings etc
+部	classifier for works of literature, films, machines etc
+嘟噜	classifier for bunched objects
+居	classifier for bedrooms
+柄	classifier for knives or blades
+集	classifier for sections of a TV series etc: episode
+株	classifier for trees or plants
+件	classifier for events, things, clothes etc
+幅	classifier for textiles or pictures
+剑	classifier for blows of a sword
+项	classifier for principles, items, clauses, tasks, research projects etc
+棒	classifier for legs of a relay race
+块	classifier for pieces of cloth, cake, soap etc
+起	classifier for occurrences or unpredictable events: case, instance; classifier for groups: batch, group
+扎	classifier for flowers, banknotes etc: bundle
+束	classifier for bunches, bundles, beams of light etc
+回	classifier for acts of a play
+季	classifier for seasonal crop yields
+团	classifier for a lump or a soft mass: wad (of paper), ball (of wool), cloud (of smoke)
+桩	classifier for items
+轮次	classifier for laps, turns, rounds
+峰	classifier for camels
+遭	classifier for events: time, turn, incident
+杯	classifier for certain containers of liquids: glass, cup; classifier for certain containers of liquids: glass, cup
+台	classifier for vehicles or machines
+间	classifier for rooms
+具	classifier for devices, coffins, dead bodies
+壶	classifier for bottled liquid
+批	classifier for batches, lots, military flights
+声	classifier for sounds
