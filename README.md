@@ -50,3 +50,8 @@ The third columns is the Pinyin reading of the classifier and the last columns g
 There are two lists:
 * [classifiers.txt](dist/classifiers.txt?raw=true)
 * [classifiersAll.txt](dist/classifiersAll.txt?raw=true) (includes entries with 个)
+
+
+# More Information
+
+Visit my blog at [timo-horstschaefer.de](https://blog.timo-horstschaefer.de)
